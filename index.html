@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="vi" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BusTech Pulse - Tin Tức Công Nghệ Xe Bus Toàn Cầu Mỗi Ngày</title>
+  <meta name="description" content="Cổng thông tin tự động cập nhật tin tức công nghệ xe buýt toàn cầu: xe buýt điện, xe tự hành, pin nhiên liệu hydro, giao thông thông minh ITS và các dự án quy mô lớn.">
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#ecfdf5',
+              500: '#10b981',
+              600: '#059669',
+              700: '#047857',
+              900: '#064e3b'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+    .glass-nav {
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+    .custom-scrollbar::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    .custom-scrollbar::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.05);
+    }
+    .custom-scrollbar::-webkit-scrollbar-thumb {
+      background: rgba(100, 116, 139, 0.3);
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col transition-colors duration-200">
+
+  <!-- TOP HEADER / NAV -->
+  <header class="sticky top-0 z-50 bg-slate-900/80 border-b border-slate-800 glass-nav">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16 sm:h-20">
+        
+        <!-- Logo -->
+        <div class="flex items-center space-x-3">
+          <div class="w-10 h-10 sm:w-12 sm:h-12 rounded-xl bg-gradient-to-tr from-emerald-600 to-cyan-500 flex items-center justify-center shadow-lg shadow-emerald-500/20 text-white font-black text-xl">
+            <i data-lucide="bus" class="w-6 h-6"></i>
+          </div>
+          <div>
+            <div class="flex items-center space-x-2">
+              <span class="font-extrabold text-lg sm:text-xl tracking-tight bg-gradient-to-r from-emerald-400 via-teal-300 to-cyan-400 bg-clip-text text-transparent">
+                BUSTECH PULSE
+              </span>
+              <span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+                <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping mr-1.5"></span>
+                LIVE 24/7
+              </span>
+            </div>
+            <p class="text-xs text-slate-400 hidden sm:block">Công nghệ xe bus thông minh &amp; giao thông công cộng xanh toàn cầu</p>
+          </div>
+        </div>
+
+        <!-- Search Bar (Desktop) -->
+        <div class="hidden md:flex flex-1 max-w-md mx-8">
+          <div class="relative w-full">
+            <i data-lucide="search" class="w-4 h-4 absolute left-3.5 top-3 text-slate-400"></i>
+            <input 
+              type="text" 
+              id="searchInput" 
+              placeholder="Tìm theo từ khóa: BYD, tự hành, pin, solaris, sạc..." 
+              class="w-full pl-10 pr-4 py-2 bg-slate-800/80 hover:bg-slate-800 border border-slate-700/80 rounded-xl text-sm text-slate-100 placeholder-slate-400 focus:outline-none focus:border-emerald-500 focus:ring-1 focus:ring-emerald-500 transition-all">
+          </div>
+        </div>
+
+        <!-- Controls: Automation Info, Refresh, Bookmarks, Theme -->
+        <div class="flex items-center space-x-2 sm:space-x-3">
+          <button 
+            id="btnAutoInfo" 
+            title="Xem cơ chế tự động cập nhật"
+            class="p-2 sm:px-3 sm:py-2 bg-slate-800/90 hover:bg-slate-700 text-slate-300 hover:text-white rounded-xl border border-slate-700 text-xs font-medium flex items-center space-x-1.5 transition">
+            <i data-lucide="cpu" class="w-4 h-4 text-emerald-400"></i>
+            <span class="hidden sm:inline">Cơ chế tự động</span>
+          </button>
+
+          <button 
+            id="btnRefresh" 
+            title="Làm mới tin tức"
+            class="p-2 sm:px-3 sm:py-2 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl shadow-sm text-xs font-semibold flex items-center space-x-1.5 transition">
+            <i data-lucide="refresh-cw" id="refreshIcon" class="w-4 h-4"></i>
+            <span class="hidden sm:inline">Cập nhật</span>
+          </button>
+
+          <button 
+            id="themeToggle" 
+            class="p-2 text-slate-400 hover:text-slate-100 hover:bg-slate-800 rounded-xl transition">
+            <i data-lucide="moon" id="themeIcon" class="w-5 h-5"></i>
+          </button>
+        </div>
+
+      </div>
+
+      <!-- Mobile Search Bar -->
+      <div class="md:hidden pb-3">
+        <div class="relative w-full">
+          <i data-lucide="search" class="w-4 h-4 absolute left-3.5 top-3 text-slate-400"></i>
+          <input 
+            type="text" 
+            id="mobileSearchInput" 
+            placeholder="Tìm theo hãng xe, công nghệ..." 
+            class="w-full pl-10 pr-4 py-2 bg-slate-800 border border-slate-700 rounded-xl text-sm text-slate-100 placeholder-slate-400 focus:outline-none focus:border-emerald-500">
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN CONTAINER -->
+  <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
+
+    <!-- HERO / BANNER & LIVE STATS -->
+    <section class="relative overflow-hidden rounded-2xl bg-gradient-to-br from-slate-900 via-slate-900 to-emerald-950/40 border border-slate-800 p-5 sm:p-8">
+      <div class="absolute -right-10 -bottom-10 w-64 h-64 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none"></div>
+      <div class="absolute -left-10 -top-10 w-64 h-64 bg-cyan-500/10 rounded-full blur-3xl pointer-events-none"></div>
+
+      <div class="relative z-10 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-6">
+        <div class="space-y-2 max-w-2xl">
+          <div class="flex items-center space-x-2 text-xs font-semibold uppercase tracking-wider text-emerald-400">
+            <i data-lucide="sparkles" class="w-4 h-4"></i>
+            <span>Tự Động Thu Thập Mỗi Ngày Từ 5+ Nguồn Quốc Tế</span>
+          </div>
+          <h1 class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-tight leading-tight">
+            Điểm Tin Công Nghệ Xe Buýt &amp; Giao Thông Thông Minh
+          </h1>
+          <p class="text-slate-300 text-sm sm:text-base leading-relaxed">
+            Hệ thống tự động theo dõi các đột phá về xe buýt điện, xe buýt không người lái cấp độ L4, công nghệ pin nhiên liệu hydro, hệ thống sạc siêu nhanh megawatt và giải pháp ITS điều hành đô thị.
+          </p>
+          <div class="flex flex-wrap items-center gap-3 pt-2 text-xs text-slate-400">
+            <span class="flex items-center space-x-1">
+              <i data-lucide="clock" class="w-3.5 h-3.5 text-slate-500"></i>
+              <span>Lần quét gần nhất: <strong id="lastUpdatedText" class="text-slate-200">Đang tải...</strong></span>
+            </span>
+            <span>•</span>
+            <span class="flex items-center space-x-1">
+              <i data-lucide="newspaper" class="w-3.5 h-3.5 text-slate-500"></i>
+              <span>Tổng bài viết: <strong id="totalArticlesCount" class="text-emerald-400">--</strong></span>
+            </span>
+            <span>•</span>
+            <span class="flex items-center space-x-1">
+              <i data-lucide="globe" class="w-3.5 h-3.5 text-slate-500"></i>
+              <span>Châu Âu, Bắc Mỹ, Châu Á - TBD</span>
+            </span>
+          </div>
+        </div>
+
+        <!-- STATS PILLS GRID -->
+        <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-2 gap-3 min-w-[280px]">
+          <div class="bg-slate-800/80 border border-slate-700/70 rounded-xl p-3 flex items-center space-x-3">
+            <div class="p-2.5 rounded-lg bg-emerald-500/10 text-emerald-400">
+              <i data-lucide="zap" class="w-5 h-5"></i>
+            </div>
+            <div>
+              <div class="text-xl font-bold text-white" id="statElectric">0</div>
+              <div class="text-xs text-slate-400">Xe buýt điện</div>
+            </div>
+          </div>
+
+          <div class="bg-slate-800/80 border border-slate-700/70 rounded-xl p-3 flex items-center space-x-3">
+            <div class="p-2.5 rounded-lg bg-purple-500/10 text-purple-400">
+              <i data-lucide="bot" class="w-5 h-5"></i>
+            </div>
+            <div>
+              <div class="text-xl font-bold text-white" id="statAutonomous">0</div>
+              <div class="text-xs text-slate-400">Tự hành &amp; AI</div>
+            </div>
+          </div>
+
+          <div class="bg-slate-800/80 border border-slate-700/70 rounded-xl p-3 flex items-center space-x-3">
+            <div class="p-2.5 rounded-lg bg-sky-500/10 text-sky-400">
+              <i data-lucide="flame" class="w-5 h-5"></i>
+            </div>
+            <div>
+              <div class="text-xl font-bold text-white" id="statHydrogen">0</div>
+              <div class="text-xs text-slate-400">Hydro &amp; Pin</div>
+            </div>
+          </div>
+
+          <div class="bg-slate-800/80 border border-slate-700/70 rounded-xl p-3 flex items-center space-x-3">
+            <div class="p-2.5 rounded-lg bg-amber-500/10 text-amber-400">
+              <i data-lucide="radio" class="w-5 h-5"></i>
+            </div>
+            <div>
+              <div class="text-xl font-bold text-white" id="statIts">0</div>
+              <div class="text-xs text-slate-400">ITS &amp; Đội xe</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CATEGORY FILTER TABS & SORTING -->
+    <section class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-2 border-b border-slate-800">
+      
+      <!-- Filter Tags -->
+      <div class="flex items-center space-x-2 overflow-x-auto pb-1 sm:pb-0 custom-scrollbar" id="categoryFilterContainer">
+        <button data-cat="all" class="cat-btn active whitespace-nowrap px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-500 text-white shadow-sm transition">
+          🌐 Tất cả (<span id="catCountAll">0</span>)
+        </button>
+        <button data-cat="electric" class="cat-btn whitespace-nowrap px-3.5 py-1.5 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition">
+          ⚡ Xe Buýt Điện (<span id="catCountElectric">0</span>)
+        </button>
+        <button data-cat="autonomous" class="cat-btn whitespace-nowrap px-3.5 py-1.5 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition">
+          🤖 Tự Hành &amp; AI (<span id="catCountAutonomous">0</span>)
+        </button>
+        <button data-cat="hydrogen" class="cat-btn whitespace-nowrap px-3.5 py-1.5 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition">
+          🔋 Hydro &amp; Fuel Cell (<span id="catCountHydrogen">0</span>)
+        </button>
+        <button data-cat="its" class="cat-btn whitespace-nowrap px-3.5 py-1.5 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition">
+          📡 Quản Lý Đội Xe &amp; ITS (<span id="catCountIts">0</span>)
+        </button>
+        <button data-cat="market" class="cat-btn whitespace-nowrap px-3.5 py-1.5 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition">
+          📊 Thị Trường &amp; Dự Án (<span id="catCountMarket">0</span>)
+        </button>
+      </div>
+
+      <!-- Quick Options: Bookmark only & Language Display -->
+      <div class="flex items-center space-x-2 text-xs self-end sm:self-auto">
+        <button id="toggleBookmarksBtn" class="flex items-center space-x-1.5 px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-lg transition border border-slate-700">
+          <i data-lucide="bookmark" class="w-3.5 h-3.5 text-amber-400"></i>
+          <span>Đã lưu (<span id="bookmarkedCount">0</span>)</span>
+        </button>
+
+        <select id="sortSelect" class="bg-slate-800 border border-slate-700 text-slate-200 rounded-lg px-2.5 py-1.5 focus:outline-none focus:border-emerald-500">
+          <option value="latest">Mới nhất trước</option>
+          <option value="oldest">Cũ hơn trước</option>
+          <option value="source">Theo nguồn báo</option>
+        </select>
+      </div>
+
+    </section>
+
+    <!-- ARTICLES FEED CONTAINER -->
+    <div id="articlesGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+      <!-- Article cards will be rendered dynamically by JavaScript -->
+    </div>
+
+    <!-- EMPTY STATE -->
+    <div id="emptyState" class="hidden text-center py-16 px-4">
+      <div class="w-16 h-16 mx-auto rounded-full bg-slate-800 flex items-center justify-center text-slate-500 mb-4">
+        <i data-lucide="search-x" class="w-8 h-8"></i>
+      </div>
+      <h3 class="text-lg font-bold text-slate-200 mb-1">Không tìm thấy tin tức phù hợp</h3>
+      <p class="text-sm text-slate-400 max-w-sm mx-auto">Vui lòng thử từ khóa tìm kiếm khác hoặc chuyển về tab "Tất cả".</p>
+    </div>
+
+    <!-- LOADING STATE -->
+    <div id="loadingState" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+      <div class="h-64 rounded-2xl bg-slate-800/50 animate-pulse border border-slate-800"></div>
+      <div class="h-64 rounded-2xl bg-slate-800/50 animate-pulse border border-slate-800"></div>
+      <div class="h-64 rounded-2xl bg-slate-800/50 animate-pulse border border-slate-800"></div>
+    </div>
+
+  </main>
+
+  <!-- MODAL: HƯỚNG DẪN CƠ CHẾ TỰ ĐỘNG CẬP NHẬT MỖI NGÀY -->
+  <div id="autoInfoModal" class="fixed inset-0 z-50 bg-black/70 backdrop-blur-sm flex items-center justify-center p-4 hidden">
+    <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-2xl w-full p-6 space-y-5 max-h-[90vh] overflow-y-auto custom-scrollbar shadow-2xl">
+      <div class="flex items-center justify-between border-b border-slate-800 pb-3">
+        <div class="flex items-center space-x-2.5">
+          <div class="p-2 rounded-lg bg-emerald-500/10 text-emerald-400">
+            <i data-lucide="workflow" class="w-5 h-5"></i>
+          </div>
+          <div>
+            <h3 class="text-lg font-bold text-white">Kiến Trúc Tự Động Cập Nhật Mỗi Ngày</h3>
+            <p class="text-xs text-slate-400">Hoàn toàn miễn phí, 0 chi phí máy chủ, chạy bền bỉ 24/7</p>
+          </div>
+        </div>
+        <button id="closeAutoInfoBtn" class="text-slate-400 hover:text-white p-1 rounded-lg">
+          <i data-lucide="x" class="w-5 h-5"></i>
+        </button>
+      </div>
+
+      <div class="space-y-4 text-sm text-slate-300">
+        
+        <!-- Step 1 -->
+        <div class="bg-slate-800/60 p-4 rounded-xl border border-slate-700/60 flex gap-3">
+          <div class="w-7 h-7 rounded-full bg-emerald-500/20 text-emerald-400 font-bold flex items-center justify-center shrink-0 text-xs">1</div>
+          <div>
+            <h4 class="font-bold text-white mb-1">Thu Thập Dữ Liệu Toàn Cầu (Multi-Source Aggregator)</h4>
+            <p class="text-slate-400 text-xs leading-relaxed">
+              Thu thập định kỳ từ các nguồn báo chí uy tín hàng đầu: <em>Sustainable Bus, Electrive, Intelligent Transport</em> và mạng lưới Google News phân loại theo từ khóa xe buýt điện, xe tự hành, pin nhiên liệu hydro.
+            </p>
+          </div>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="bg-slate-800/60 p-4 rounded-xl border border-slate-700/60 flex gap-3">
+          <div class="w-7 h-7 rounded-full bg-cyan-500/20 text-cyan-400 font-bold flex items-center justify-center shrink-0 text-xs">2</div>
+          <div>
+            <h4 class="font-bold text-white mb-1">Lọc Trùng Lặp &amp; Tự Động Phân Loại Danh Mục (Deduplication &amp; NLP)</h4>
+            <p class="text-slate-400 text-xs leading-relaxed">
+              Loại bỏ các bài viết trùng lặp URL hoặc tiêu đề. Bộ phân loại tự động gắn nhãn vào 5 chuyên mục chính: Xe buýt điện, Xe tự hành &amp; AI, Pin &amp; Hydro, Quản lý đội xe &amp; ITS, Thị trường đấu thầu.
+            </p>
+          </div>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="bg-slate-800/60 p-4 rounded-xl border border-slate-700/60 flex gap-3">
+          <div class="w-7 h-7 rounded-full bg-purple-500/20 text-purple-400 font-bold flex items-center justify-center shrink-0 text-xs">3</div>
+          <div>
+            <h4 class="font-bold text-white mb-1">Lập Lịch Chạy Tự Động (GitHub Actions Cron / Windows Task Scheduler)</h4>
+            <p class="text-slate-400 text-xs leading-relaxed">
+              - <strong>Trên GitHub (Khuyên dùng):</strong> File workflow <code class="text-emerald-400 bg-slate-950 px-1 py-0.5 rounded">daily-update.yml</code> tự động kích hoạt mỗi ngày vào 06:00 sáng. Khi có tin mới, hệ thống tự commit và đẩy lên GitHub Pages.<br>
+              - <strong>Trên máy tính Windows cá nhân:</strong> Chạy script <code class="text-emerald-400 bg-slate-950 px-1 py-0.5 rounded">update-news.ps1</code> hoặc đặt lịch trong Windows Task Scheduler.
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="pt-3 border-t border-slate-800 flex justify-end">
+        <button id="gotItBtn" class="px-4 py-2 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl text-xs font-semibold transition">
+          Đã hiểu
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="mt-auto border-t border-slate-800 bg-slate-900/50 py-8 text-xs text-slate-500">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div class="flex items-center space-x-2">
+        <div class="w-6 h-6 rounded bg-emerald-600 text-white flex items-center justify-center font-bold">B</div>
+        <span class="font-semibold text-slate-300">BusTech Pulse © 2026</span>
+        <span>•</span>
+        <span>Tự động cập nhật tin tức công nghệ xe buýt toàn cầu mỗi ngày</span>
+      </div>
+      <div class="flex items-center space-x-4">
+        <a href="https://github.com" target="_blank" class="hover:text-emerald-400 transition flex items-center space-x-1">
+          <i data-lucide="github" class="w-4 h-4"></i>
+          <span>GitHub Actions Powered</span>
+        </a>
+        <span>•</span>
+        <button id="footerRefreshBtn" class="hover:text-emerald-400 transition">Quét lại ngay</button>
+      </div>
+    </div>
+  </footer>
+
+  <!-- JAVASCRIPT LOGIC -->
+  <script src="data/news.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
