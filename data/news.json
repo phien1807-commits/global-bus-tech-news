@@ -1,18 +1,96 @@
 {
   "metadata": {
-    "last_updated": "2026-10-21 00:26:37 UTC",
+    "last_updated": "2026-10-22 00:27:21 UTC",
     "total_articles": 80,
     "sources_count": 6,
     "stats": {
       "total": 80,
-      "electric": 48,
+      "electric": 46,
       "autonomous": 5,
       "hydrogen": 14,
       "its": 11,
-      "market": 2
+      "market": 4
     }
   },
   "articles": [
+    {
+      "title": "ACEA urges EU action on bus manufacturing as Chinese brands take 32% of electric city bus market and EU trade deficit reaches €2.9 billion",
+      "link": "https://www.sustainable-bus.com/news/acea-urges-europe-action-bus-manufacturing/",
+      "source": "Sustainable Bus",
+      "pub_date": "2026-10-21 13:09:20 UTC",
+      "pub_timestamp": 1792588160,
+      "description": "European manufacturers’ association ACEA is calling for urgent EU action on bus manufacturing and public procurement, as Chinese brands reached 32% of the European electric city bus market in 2025 and the EU bus trade deficit increased to €2.9 billion. In a position paper publish...",
+      "image": "",
+      "category": "Market & Tenders",
+      "category_vi": "Thị Trường & Dự Án",
+      "category_id": "market",
+      "badge_color": "blue"
+    },
+    {
+      "title": "Rinko Bus, Toshiba and Drive Electro Launch Fast-Charging Electric Bus Demonstration",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTWRzXzZ0NldfRmJmY2FmYlIxNlhucm9TRU90MXd2MmdUSFBsZDRMVzJnc0Vma254aHBlb3dpOHA1OTJMSi05aW5WcGl6bkFQMjV2a2V3ei14eFlTNmJrR3drZFIwZ09wM3haWFJuTkNrb0xEbmJxT0NteV9pdUJ1R2o4bElJVDhTcWpwYkFXczVXbGVyczI1eWphTlRtbjEwZU04X28ybGE?oc=5",
+      "source": "Bus-News",
+      "pub_date": "2026-10-21 10:54:03 UTC",
+      "pub_timestamp": 1792580043,
+      "description": "Rinko Bus, Toshiba and Drive Electro Launch Fast-Charging Electric Bus Demonstration Bus-News",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "Hanover Displays doubles US facility space and names Óscar Torres Regional Sales Director for Europe",
+      "link": "https://www.sustainable-bus.com/components/hanover-display-oscar-torres-sales-director-europe-expansion-illinois/",
+      "source": "Sustainable Bus",
+      "pub_date": "2026-10-21 08:09:58 UTC",
+      "pub_timestamp": 1792570198,
+      "description": "Passenger information systems manufacturer Hanover Displays has inaugurated an expanded 55,000 sq ft facility in Elk Grove Village, Illinois, while appointing Óscar Torres as Regional Sales Director for Europe. The company announced the opening of its enlarged US premises on 21 O...",
+      "image": "",
+      "category": "Fleet & ITS Tech",
+      "category_vi": "Quản Lý Đội Xe & ITS",
+      "category_id": "its",
+      "badge_color": "amber"
+    },
+    {
+      "title": "Hochbahn starts trial operations at Hamburg’s first fully electric bus depot in Meiendorf",
+      "link": "https://www.sustainable-bus.com/infrastructure/hamburger-hochbahn-meiendorf-depot-electric-buses-trial/",
+      "source": "Sustainable Bus",
+      "pub_date": "2026-10-21 07:51:48 UTC",
+      "pub_timestamp": 1792569108,
+      "description": "Hamburger Hochbahn has started trial operations at its first depot dedicated exclusively to electric buses in Meiendorf, Hamburg, on 19 October 2026, ahead of the facility’s scheduled commissioning in mid-December. During the initial testing phase, up to ten electric buses and ap...",
+      "image": "",
+      "category": "Fleet & ITS Tech",
+      "category_vi": "Quản Lý Đội Xe & ITS",
+      "category_id": "its",
+      "badge_color": "amber"
+    },
+    {
+      "title": "Greater Manchester reaches 500 electric buses in operation, with 163 more vehicles on order",
+      "link": "https://www.sustainable-bus.com/news/manchester-500-electric-buses-bee-network/",
+      "source": "Sustainable Bus",
+      "pub_date": "2026-10-21 07:28:19 UTC",
+      "pub_timestamp": 1792567699,
+      "description": "Greater Manchester’s Bee Network has exceeded 500 electric buses in operation, with a further 163 vehicles scheduled for delivery as the city region works towards a fully electric bus fleet by 2030. The milestone was announced by Transport for Greater Manchester (TfGM) on 16 Octo...",
+      "image": "",
+      "category": "Market & Tenders",
+      "category_vi": "Thị Trường & Dự Án",
+      "category_id": "market",
+      "badge_color": "blue"
+    },
+    {
+      "title": "SWITCH Mobility, Purple Bus Launch Vidarbha’s First Private Electric Intercity Bus Service",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVpwQklSd2hoWTZjT0FjOC1sSS1OZVVDYUg0VGVqVFpfWXcwWlZlV0VsQ0xPZ2ZNeVVqMU5YZEdYLXQzbmpMeWpmWDR1QmszanZUbTdHRTBsTlMxM185NjNnQ0hmMnZySnMwOTRMaGpNMnVFeTBzQ3YzalRIajlDTnB5WkxSd0lnWjItVEVuUUdkWWJBV1BKOUI1aw?oc=5",
+      "source": "Coach Builders India",
+      "pub_date": "2026-10-21 05:56:41 UTC",
+      "pub_timestamp": 1792562201,
+      "description": "SWITCH Mobility, Purple Bus Launch Vidarbha’s First Private Electric Intercity Bus Service Coach Builders India",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
     {
       "title": "Innovation Challenge to Showcase New Technological Solutions at Euro Bus Expo 2026",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSklmVkJ2aHBDenJxMkluS081ODFjM3REM0otVFluSlBVWWNxVF96b042RmRYalJTaThGRmtYVUsxM3M1ZDE4VkxZSTZtVkxnOXN5WmVqNXVhSmxqUUJ6eWJmVEJHN29JNUwxSVJSZ1BWc0FaVS13ZVNQWHNpQlRIQ0ZRbV82MmVhbzhYSnduMFMtd2lTQmJkOEs0Y29PX0U3SXZTZENlUQ?oc=5",
@@ -27,37 +105,11 @@
       "badge_color": "emerald"
     },
     {
-      "title": "Spain: Iriziar to Supply Five Electric Buses to Tuvisa",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGRWNVhCMjBvVmo5c0xFM1hvVWV5QWd0enN3QnNhdlhrZi1mVGgxaElWSXAycVp5SXhDcGpKQ1BfejNmYUNlV29zaEdfRnlCYkozMnpWN2ZVZGJjc2tBeG9hSkdLbzBQVWZfemUzV1RjZHNkcmVpb1lyN0ZuSE9fMg?oc=5",
-      "source": "Bus-News",
-      "pub_date": "2026-10-20 13:58:26 UTC",
-      "pub_timestamp": 1792504706,
-      "description": "Spain: Iriziar to Supply Five Electric Buses to Tuvisa Bus-News",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "Sunway eyes driverless transport, electric aircraft",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbFNjZUF1VE1RZVlibHNkSF80SUhmZmdCZjlQdjVvRnQ2SGhSY3QtR2g3eVVDSk9oQ0hBMDR3d1JnYmJVUTJiWU1Qc0hTVlc3N1VjcFRncWY4NG1SQ1JtYlRReEltcDNsd0lRWGw3UHkwN2FtYjg1WkM3WUtKNDRxVXJGMjVVdEpZWUUtdWlMYjFMQ3hqSW5EbDNBeEkyVFVPY1E?oc=5",
-      "source": "KLSE Screener",
-      "pub_date": "2026-10-20 13:44:34 UTC",
-      "pub_timestamp": 1792503874,
-      "description": "Sunway eyes driverless transport, electric aircraft KLSE Screener",
-      "image": "",
-      "category": "Autonomous & AI",
-      "category_vi": "Xe Tự Hành & AI",
-      "category_id": "autonomous",
-      "badge_color": "purple"
-    },
-    {
       "title": "Bus Cap, StarCharge partner to expand EV charging infrastructure, integrated mobility ecosystem",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0FIZWtfMlRGZV9CRThTMTNTNWcwazJFS3VJbWJreDNhbDlhWmR4UVdidFd4eERvQWtPVVF3Y3lIMWxrMHpNemh2cG9tdklyb29YTU9aem40ZWlfN21MWjd4aHgwcEVvd2twMWppMmFPVTYwSTdWT2JodXA5STRPUG9yOEY0MThtVDdKcVlTbmFubmJXMjRjY0otQ1JvOG1yanQ0cExlTS1EdkhKQlh4MDVqdW9tb282a3Aw?oc=5",
       "source": "Focus Malaysia",
-      "pub_date": "2026-10-20 13:22:49 UTC",
-      "pub_timestamp": 1792502569,
+      "pub_date": "2026-10-20 13:24:00 UTC",
+      "pub_timestamp": 1792502640,
       "description": "Bus Cap, StarCharge partner to expand EV charging infrastructure, integrated mobility ecosystem Focus Malaysia",
       "image": "",
       "category": "Electric & E-Bus",
@@ -105,38 +157,12 @@
       "badge_color": "emerald"
     },
     {
-      "title": "Edinburgh College helps overseas trainers prepare for electric bus future",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzZTWHJiSlBVMms4T3pTbnRvQjAtb2RZT3M2NTNTaF9GVE9nVENabXY4VzNncXJDS2g2dEYySVJyMnFKZEY5XzlDVHZvSHJCemtERG1OQnkwcFQzWkVYbkFzRUFBeVhza3N4T180czJxSGtYVXNwcXFMMUFyeC0wY0VPbksxM05XQU5MZHJOdEI3OEVPSi01b0xDaFJmckV5RlNUVkpXTEY?oc=5",
-      "source": "Midlothian View",
-      "pub_date": "2026-10-20 11:28:57 UTC",
-      "pub_timestamp": 1792495737,
-      "description": "Edinburgh College helps overseas trainers prepare for electric bus future Midlothian View",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
       "title": "Bus Cap teams up with StarCharge to explore EV charging infrastructure, technical services",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGNXOWI2RlRVSG5ld0VhWnhxWmdRSUE1NmhFalBWYURVeGhnazh5OHlEUjBGenNDd1p2R2t2S3g5eFdQLXZsZjFnemIzejN1cGphc2RlR1hrMVFrTkJNMG1yTTVSS0RBNmNtMGFiWkc5eHhVWE9iOXdub19TN25HM1lxNU1LME9MeHRySkNtR29NdGFEdDlNdFltWEFmbkZ4bUVLWGRiTkltQm82Ni1WS01ub1lNd3lSSGJLbGw0eldnZ3E0RzJ1UDFlaWVmQQ?oc=5",
       "source": "The Malaysian Reserve",
       "pub_date": "2026-10-20 10:27:37 UTC",
       "pub_timestamp": 1792492057,
       "description": "Bus Cap teams up with StarCharge to explore EV charging infrastructure, technical services The Malaysian Reserve",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "Bus Cap, StarCharge To Jointly Develop EV Charging Infrastructure In Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZjFjNDlhVkIzZjN6ekctTW03NE8wXzhvS1BnMmlRX2VDejczRjZxa1JhQlVfSDNBSHBOV0g4NHhoQ0M3cHhQakgxQjUxMVAtVWJPajdyNk94TmdtSGpxcUFHb0RRYjN0TjlYRWdIYWt5eE5QSnZjQUEyNXV1eGJkWXp2WlBhVTlrSjMxNURsM2t0emlnUDJlQmNHbXM0V3E1Ym5SbHNyeWtaUXhFa3FiTnI3eHdwOUxhMGpfdThn?oc=5",
-      "source": "BusinessToday Malaysia",
-      "pub_date": "2026-10-20 10:00:08 UTC",
-      "pub_timestamp": 1792490408,
-      "description": "Bus Cap, StarCharge To Jointly Develop EV Charging Infrastructure In Malaysia BusinessToday Malaysia",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -158,7 +184,7 @@
     },
     {
       "title": "Seoul launches driverless night bus along Cheonggye Stream",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0ZmTUNZZXh3QnZ0d1JkcVNqM2xxeTQ1N3l5RmVwT0tqS3FpLV92dmZpZ0NMUERrWlhYQmpWTmtiQlpxVmpGcU1Ja21IMFlBX21YZjVfYUdHWlVDUlVsSmtIak9jeXlMZ19lNUdiZWp2a2ZIU3diTEYwaVlDd1U3bnZyQjREZF9veER1cVlhSUpnSFRkVy1EXzZWS3Nsd085UkpGcHpjMWVGdnJRbHp6VnA3UTMxa3Fuc19BZWEzONIBvwFBVV95cUxOa0ZmTUNZZXh3QnZ0d1JkcVNqM2xxeTQ1N3l5RmVwT0tqS3FpLV92dmZpZ0NMUERrWlhYQmpWTmtiQlpxVmpGcU1Ja21IMFlBX21YZjVfYUdHWlVDUlVsSmtIak9jeXlMZ19lNUdiZWp2a2ZIU3diTEYwaVlDd1U3bnZyQjREZF9veER1cVlhSUpnSFRkVy1EXzZWS3Nsd085UkpGcHpjMWVGdnJRbHp6VnA3UTMxa3Fuc19BZWEzOA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlVQWGJWTnJ3MGxXM3FNSUpMdkdOR1lndDUxQXdlQktDUGN3MTRyamRrV1EzMnBaODF3dnl2MndZWVVHREpJUEdiaHp6OTNkR1FsSkJ3UjJSektVbDRwNjBfbmc1R2VyVVZ0bWJmaHNYNkdYT0Q1eGc4RjhycmI5OVhreGFwVmVnOXRkNWF5c0NSLVkwQTRtLVVHVWNwcktSenVtQ0lvWGt5OXdfU2o0a19IVDI1VmtJTFHSAb8BQVVfeXFMTmtGZk1DWWV4d0J2dHdSZHFTajNscXk0NTd5eUZlcE9LaktxaS1fdnZmaWdDTFBEa1pYWEJqVk5rYkJacVZqRnFNSWttSDBZQV9tWGY1X2FHR1pVQ1JVbEprSGpPY3l5TGdfZTVHYmVqdmtmSFN3YkxGMGlZQ3dVN252ckI0RGRfb3hEdXFZYUlKZ0hUZFctRF82VktzbHdPOVJKRnB6YzFlRnZyUWx6elZwN1EzMWtxbnNfQWVhMzg?oc=5",
       "source": "The Korea Times",
       "pub_date": "2026-10-20 06:15:03 UTC",
       "pub_timestamp": 1792476903,
@@ -183,12 +209,64 @@
       "badge_color": "emerald"
     },
     {
+      "title": "Cape Town’s big plan to get rid of its petrol fleet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFZKbWJYZ3pydXRDb18yT1otWkFQd1ZXTWZSUkFpZnZ4QVVUS3JvMFdtMDg0RmNwUktTeGpvTjQ1dmlJZVN5bE1DbFRaQnVsOXpudm02bmVVWG1tSjNsZlkwUVM2ZHRBVUt4dE1sUkxTbjRBc0xFYmZYY0hUeEEwYTk1a1RFX21nTm9feTBB?oc=5",
+      "source": "TopAuto.co.za",
+      "pub_date": "2026-10-20 05:00:00 UTC",
+      "pub_timestamp": 1792472400,
+      "description": "Cape Town’s big plan to get rid of its petrol fleet TopAuto.co.za",
+      "image": "",
+      "category": "Fleet & ITS Tech",
+      "category_vi": "Quản Lý Đội Xe & ITS",
+      "category_id": "its",
+      "badge_color": "amber"
+    },
+    {
+      "title": "Ondo govt plans electric bus scheme to reduce transport fares",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQXzY2a0UtaE9lQzBIR0M5akJnMHVkV3VNNkcwQ0dVRUZ2cVAtWjZUaHVCSkctRkw0ZU5rRUFRbEZDS1p0ekJOWlcweFVJSnFzX1p6NlRiWVBBaFdFNW85UkxrUDJsYWREVHJlSEFkY0FaYWhmUWdnYXVacWdkQ2NqeVpTdGRsQnNPMUF4WEtJM2RpOWc?oc=5",
+      "source": "Western Post",
+      "pub_date": "2026-10-19 16:42:32 UTC",
+      "pub_timestamp": 1792428152,
+      "description": "Ondo govt plans electric bus scheme to reduce transport fares Western Post",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "Ondo govt signs MoU for electric buses to cut transport costs",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjh6QUhCYW9XWVVqaVpVWjJLa3dLSTlKcTJQY2tsQ0lUdDByTjNaaTZNbEtrbURmeENCSjZzQjBjSWtWQ0JxcEdFV1N0aUZnam1DXy1hM2ZRTF9Ldm82MVVxeWEwVzVDVVdsYVpjNDd3M0NLVTJkWkhyVmZOdzdtcl90ZjRlQ3JKSnBBYTh0Zi1SMFhZV2l4T0luTWhaVjTSAaQBQVVfeXFMTjRoYUMzVlA0UzZsM3Z3S0Vqb3JrNV9oUDUxeEhwNnNiZnREeFpuQV9lc3dYSlo0TUhXeXBhQ0RkZHdzb1ZPOXM0WUxGTVQzb2RCRGNvZ1FJWkxzdWVOY3ZPV3ZjbExkd3dSNHNJNUdTN04xZmlGYkI5S2ZlRVlqMVVSdWFScm1CMzZuVzI2RGUtb2RQYmFRWnpja1VwUGhPVVNlUkc?oc=5",
+      "source": "Vanguard News",
+      "pub_date": "2026-10-19 14:30:31 UTC",
+      "pub_timestamp": 1792420231,
+      "description": "Ondo govt signs MoU for electric buses to cut transport costs Vanguard News",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
       "title": "Busworld Europe 2027 takes shape: exhibitor list and floor plans already online",
       "link": "https://www.sustainable-bus.com/news/busworld-europe-2027-floor-plan/",
       "source": "Sustainable Bus",
       "pub_date": "2026-10-19 13:48:44 UTC",
       "pub_timestamp": 1792417724,
       "description": "Busworld Europe will return to Brussels from 16 to 21 October 2027, with the exhibitor list and floor plans already available online one year ahead of the event. The next edition follows Busworld 2025 exhibition, which attracted 45,427 visitors from 116 countries, 559 exhibitors ...",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "Ondo Unveils Electric Bus Plan to Cut Transport Costs",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUNVR1V1SnBoYnpVNzgzTFhheXVuSXFHSk03ajAzRFprR2VJVFJJMnVORDdnUWJiSXpTenRGOWp3dElJVHhVaEhhUVRDdGZhYmlmYzJGTGFueXJ4dDRJWER4STRkOFNTRENNdklJLU1WSmlqdWlfVkQ2SG9RVGRBR3JBaDVvdERPdDNvTmhoc1IxamkzRnlJRnlHMjR3LUdqOWc?oc=5",
+      "source": "ROVING REPORTERS",
+      "pub_date": "2026-10-19 13:22:28 UTC",
+      "pub_timestamp": 1792416148,
+      "description": "Ondo Unveils Electric Bus Plan to Cut Transport Costs ROVING REPORTERS",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -235,45 +313,6 @@
       "badge_color": "blue"
     },
     {
-      "title": "Masats targets real-world testing for AIDA AI-powered bus door system within 12–18 months",
-      "link": "https://www.sustainable-bus.com/digital-showcase/masats-testing-aida-ai-powered-bus-door-system/",
-      "source": "Sustainable Bus",
-      "pub_date": "2026-10-19 07:42:54 UTC",
-      "pub_timestamp": 1792395774,
-      "description": "Door manufacturer Masats is advancing the development of its AIDA artificial intelligence-based bus door system, with testing on real vehicles targeted within the next 12–18 months. At FIAA 2026 in Madrid, Marc Ball-llosera Massa, Business Development and Product Strategy Manager...",
-      "image": "",
-      "category": "Fleet & ITS Tech",
-      "category_vi": "Quản Lý Đội Xe & ITS",
-      "category_id": "its",
-      "badge_color": "amber"
-    },
-    {
-      "title": "Over 80% of Whippet’s bus fleet now Euro VI or zero-emission as Volvo fleet renewal continues",
-      "link": "https://www.sustainable-bus.com/news/whippet-bus-fleet-renewal/",
-      "source": "Sustainable Bus",
-      "pub_date": "2026-10-19 07:37:43 UTC",
-      "pub_timestamp": 1792395463,
-      "description": "Cambridge-based bus operator Whippet is continuing its fleet renewal programme despite uncertainty surrounding the introduction of bus franchising in Cambridgeshire, with its diesel fleet now consisting exclusively of Volvo vehicles and more than 80% of its total fleet meeting Eu...",
-      "image": "",
-      "category": "Fleet & ITS Tech",
-      "category_vi": "Quản Lý Đội Xe & ITS",
-      "category_id": "its",
-      "badge_color": "amber"
-    },
-    {
-      "title": "China’s Electric Bus Market Has Already Reached The Second Cycle",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3hycjViN29VY1o0SUc1M3V4S1gtMnRiMnJ4WmhsSm5lbTRkeGZtc2h2OHJsd0N3QldaNGZGMUJUUnhNNmtBaW5VOXJyUnpjSWdrUFpaLUg5aE56U3hJdmIya0ZLOE9ISFoyZ0MxY0gwaFplRXd0WGhCbjFiX01KbFRRMjcyRWNES0F3S093d21ncnR4OFZnX1hldTI1bjhIczhrTG1ycl8xZVRXanJ4cVpVQlItcE51OHc?oc=5",
-      "source": "Medium",
-      "pub_date": "2026-10-17 16:57:34 UTC",
-      "pub_timestamp": 1792256254,
-      "description": "China’s Electric Bus Market Has Already Reached The Second Cycle Medium",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
       "title": "VinFast to enter the US market with electric buses",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUhoS3BiYXBBYU1rajZzZ1AxM2ZmbkZfVHQ4R1JiWmM3RXVjNmdOY29XdTdWZWkxRmdwb09pYjFBcDZhN2h0X09DZkJ2dG5QcHdTOVVrTlJKUXhZSTU1TFV4bHlBZGtvT3lwUy0wSzJnZkNSb0l6aWFRd056ZGxGcFZFc3NKSW8tS2hTcFExMU11RXc?oc=5",
       "source": "Magyarbusz [Info]",
@@ -285,19 +324,6 @@
       "category_vi": "Xe Buýt Điện",
       "category_id": "electric",
       "badge_color": "emerald"
-    },
-    {
-      "title": "RVK Unveils First Hydrogen-Powered School Bus in Iceland",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTdFekdqMDIzcmQyallMVUhhR1hvMkFnOFBXV2NESTlWZ2ZCaHhHTURuZjI4aUtnd05QamE4cTMtaDAyNmdxa0szUU4xV21rN18xckRScFNpcmsyY1ZTcXFSczVpQXhZbnR6Q1N1Z3RVZW51VnNKV1FXdzV4ZXNiVkZoVVZVaDBxTHg5bkp2bjJuSTRrS2liS29LWmtDbWpKUm5TSw?oc=5",
-      "source": "Fuel Cells Works",
-      "pub_date": "2026-10-16 15:59:00 UTC",
-      "pub_timestamp": 1792166340,
-      "description": "RVK Unveils First Hydrogen-Powered School Bus in Iceland Fuel Cells Works",
-      "image": "",
-      "category": "Hydrogen & Fuel Cell",
-      "category_vi": "Hydro & Pin Nhiên Liệu",
-      "category_id": "hydrogen",
-      "badge_color": "sky"
     },
     {
       "title": "Op-Ed: Liquid hydrogen could change the equation for zero-emission transit",
@@ -313,19 +339,6 @@
       "badge_color": "sky"
     },
     {
-      "title": "Saint-Étienne orders 10 more Solaris trolleybuses, bringing fleet to 41 units",
-      "link": "https://www.sustainable-bus.com/trolleybus-tramway/solaris-st-etienne-trolleybuses-order-trollino/",
-      "source": "Sustainable Bus",
-      "pub_date": "2026-10-16 11:17:22 UTC",
-      "pub_timestamp": 1792149442,
-      "description": "Solaris has secured a new contract to supply 10 articulated Trollino 18 trolleybuses to Saint-Étienne Métropole in France, with deliveries scheduled for late 2027. The order, placed through the Centrale d’Achat de Transport Public (CATP), will bring the number of Solaris trolleyb...",
-      "image": "",
-      "category": "Fleet & ITS Tech",
-      "category_vi": "Quản Lý Đội Xe & ITS",
-      "category_id": "its",
-      "badge_color": "amber"
-    },
-    {
       "title": "Only 1% of surveyed electric-car owners would return to petrol or diesel",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNk13RVdaWnZiSXhvZkxHN3ZIbnk0VHQwMGdKR2hwTlhvWTBQWTM5cTNZUjVDYjU5M2kzdU56X01MQ1JJRnI1cDIwWHNFQnpENlk4bm85dWhYLUZJeDBySEdKaENZWEtpQlI5LW5jZmJFYTFNbWZqbzB1WE9zVFlPc2ZXOVhxNDZPamdNMVJwUUE1LTU5WUtCM3FJQ3gxTHVkX2NZLXhtd0ljeHJ5V01rd1lZSmtJZW5GX3c?oc=5",
       "source": "Stock Titan",
@@ -339,38 +352,12 @@
       "badge_color": "emerald"
     },
     {
-      "title": "Scania showcases new Touring coach (also BEV), electric powertrains up to 400 kW and in-house battery production",
-      "link": "https://www.sustainable-bus.com/news/scania-new-touring-coach-electric-powertrains-batteries/",
-      "source": "Sustainable Bus",
-      "pub_date": "2026-10-16 08:22:59 UTC",
-      "pub_timestamp": 1792138979,
-      "description": "Scania has presented its latest developments in bus and coach electrification at its Södertälje headquarters in Sweden, detailing a range of electric powertrains delivering up to 400 kW, internally assembled battery packs and new BEV and PHEV chassis configurations, alongside the...",
-      "image": "",
-      "category": "Fleet & ITS Tech",
-      "category_vi": "Quản Lý Đội Xe & ITS",
-      "category_id": "its",
-      "badge_color": "amber"
-    },
-    {
       "title": "AC Transit plans cuts to services, operating hours if Regional Transit Measure fails",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXdNc1BfSDJxUmVNNWJCX0dNeVZNOVNnczhPQ2JNRU9MX3ItZm1HZUNIVExER0Y4TWNXdFB1T3N6dm54SlZrZmR3c1cwUWhIbFVDYnhzbWRlb1p5c1RWM2NFdUxHNUlXMGdfVGVjcmt2MGxvZlpYZTJ1VXlIdGkwYzFaYkRES1VmUUF5SjUwNEUzTS1wbVZ2a3dzaVVyTFo1dEpoMFZVUk9QRHFHdTBjVU1Gc0lqakNvNDdYc3pGUVg?oc=5",
       "source": "The Mercury News",
       "pub_date": "2026-10-15 22:51:42 UTC",
       "pub_timestamp": 1792104702,
       "description": "AC Transit plans cuts to services, operating hours if Regional Transit Measure fails The Mercury News",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "Rinko Bus, Toshiba and Drive Electro Technology Start Demonstration Project for Electric Bus with Super-Rapid Charging in about 10 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50VFppNDZJNW5YU0FtNXF2MTZYM0NnaGUxUTFQOS1kdkZsc2ZsdFJ6WDBJTnBPdzNIeXh1YkFqcVpIZ1p1cEJ0YVNheVBkdGtsZzNteFRYWEp6S0VRbzdtajJ3WjVrSFZnYmNRa1hxZ196U1k2cFJCeVBybzgzTTg?oc=5",
-      "source": "東芝",
-      "pub_date": "2026-10-15 10:52:30 UTC",
-      "pub_timestamp": 1792061550,
-      "description": "Rinko Bus, Toshiba and Drive Electro Technology Start Demonstration Project for Electric Bus with Super-Rapid Charging in about 10 Minutes 東芝",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -423,19 +410,6 @@
       "pub_date": "2026-10-14 08:24:59 UTC",
       "pub_timestamp": 1791966299,
       "description": "VinFast to bring electric buses to the US through NexMove service deal EV Infrastructure News",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "U.S. Representatives Seek Clean School Bus Program Reauthorization",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3VmWk5yVEJIaEd0U2RhZXJfaTFZdWNCckU3UkhWVnVkQnZIWXhIV05jSGFTa2lfTkdneGhyQlJjNU85QzY1NlRPemt6U2pscmpLZkg3bTd4LU5DaTluTUJxbUx2aUxUU2Y1NV93Y3E1azBiSXptMllJODd6QWVoUERySTNvdXg4OEEtQVJ4SmYtSnR2RWJMSzZNZkl6TWtZbElKQzBSc01MbTU3?oc=5",
-      "source": "School Transportation News",
-      "pub_date": "2026-10-13 21:24:35 UTC",
-      "pub_timestamp": 1791926675,
-      "description": "U.S. Representatives Seek Clean School Bus Program Reauthorization School Transportation News",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -599,19 +573,6 @@
       "badge_color": "emerald"
     },
     {
-      "title": "How David Crowley's 'Electric Bus' Initiative Was Plagued With Failure",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SZjRxaE1XdkVzdkZTRmhSVDB3cm5YMlhrZEpfVzNCVVZqSks0OWJ1a3NYN0pIbkY3LXZDV3hhdkFkZnRPdzNkOGlrTTN2LVh3cmFYMlFmN2Y4Z2VYMzhZY01fblk2Yk9FTllmMy1R0gF2QVVfeXFMTkN3LXNFbHNqUG9FQVBZaGZzb1BXSzdaNWp5NEE0SmVOdFBTVWY3R1MwaUJVajdYV053Rm0tdmRseGJkcTFCb2h2TVhVRUpXQVNkLXpKQzdUREdMaXN6NVpKVWFzYlZaYzlKQWZUVUp5ajRFSEtzdw?oc=5",
-      "source": "Wisconsin Right Now",
-      "pub_date": "2026-10-08 07:00:00 UTC",
-      "pub_timestamp": 1791442800,
-      "description": "How David Crowley's 'Electric Bus' Initiative Was Plagued With Failure Wisconsin Right Now",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
       "title": "VinFast’s Electric Buses Headed for the US Began Journey in Brussels",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ3F5UUQyNFV3Wk42RUlXZXhpZlhKcDQ0YUxYQ3BrQ3lhYWgxNmxpVnFWalpScVpZc1N5dHlGVENycjNja0lEcHYwc0YwbVU5dzl6OVNVcUFjMHNaeUFET2lVWXpPSWUzWWF2N1dHTHFEOFhQeW9kaGtsQTdCQVJZMVdpX2p3Y1A2WDFCV0tScDRmSWpZclJqTUgxNXd5THB0RWlyTE95TEU?oc=5",
       "source": "CleanTechnica",
@@ -625,30 +586,17 @@
       "badge_color": "emerald"
     },
     {
-      "title": "VinFast Launches Electric Bus Lineup in U.S.",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRUFHWEhSWk9yYXdJOHMwTW9ONHhkZHhlTm1QSi1GWGs4ZHAteG4yZ1FycDV0eURQQlpiZ3N6REVwQlEyRjdreEVwVEhtWnF6QnZQdGdlX0ZzbVhobWZTb29vRm9EUjNwSVlSeTVDYzRNRUZBdnZWNGVPOUdvUzJCV3ZNT0tsVW1HYUhKVnQtUDBvRnNaMVNsUEZjSHducm13M3NxRVpNTTc3YzdLVnhWRkVrMmM1b1RmOFF5ZVhZdlV1TjBJblFDRVJrUVVnc0FLQkRSZHlicmI?oc=5",
-      "source": "Fuel Cells Works",
-      "pub_date": "2026-10-07 16:31:00 UTC",
-      "pub_timestamp": 1791390660,
-      "description": "VinFast Launches Electric Bus Lineup in U.S. Fuel Cells Works",
+      "title": "How Investors May Respond To VinFast Auto (VFS) Expanding Its Electric Bus Footprint In Europe And The U.S.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWFqODJUZmNURDNwcThObUZpTjNjOXBEckhpSFlSZlRsUDFfcGwzc1FteW1KeTFLVTUtNXNmRFZyeUpmeV9IV0hwNFNYSnhnOUdhVVNHQnlKRjlDU0dFMTNQUmVHZWxHbVdHM1FuTUZfZG1taXJJaTJ1cG43MUx0R2hTbzhuZFNnMFpJei1aSU04a3A3OTE3Zl9EZ0w5UElq?oc=5",
+      "source": "Yahoo Finance",
+      "pub_date": "2026-10-08 07:00:00 UTC",
+      "pub_timestamp": 1791442800,
+      "description": "How Investors May Respond To VinFast Auto (VFS) Expanding Its Electric Bus Footprint In Europe And The U.S. Yahoo Finance",
       "image": "",
-      "category": "Hydrogen & Fuel Cell",
-      "category_vi": "Hydro & Pin Nhiên Liệu",
-      "category_id": "hydrogen",
-      "badge_color": "sky"
-    },
-    {
-      "title": "Hanoi bus operator steps up push for friendlier service",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkRXc1N2N0dWTWxZQXRvS2ZuMWdGbnRYbDh4OU56bUtEZmhGYjg2R1JXMDAwZXFuZ1J4bkU3SW5UNTN1dUFnTjc1dFBwVVE5MENGaldlOVhha0o1bXVlek5rT0hxYkRfXzcwaHRxM0tLcmt6bmJrR1pXUGo4SE1ZNWMzVFgtdDNsRDlnRWJkOEQ0UWx4bUJrTTFob0g2bGtuMkRDd1AyUHYwdDZiMGd4bmlmMlBaUW1JOWxLMUdB?oc=5",
-      "source": "DTiNews",
-      "pub_date": "2026-10-07 11:50:00 UTC",
-      "pub_timestamp": 1791373800,
-      "description": "Hanoi bus operator steps up push for friendlier service DTiNews",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
+      "category": "Fleet & ITS Tech",
+      "category_vi": "Quản Lý Đội Xe & ITS",
+      "category_id": "its",
+      "badge_color": "amber"
     },
     {
       "title": "Toyota launches new generation Sora fuel cell bus, based on Isuzu bus platform",
@@ -688,6 +636,19 @@
       "category_vi": "Hydro & Pin Nhiên Liệu",
       "category_id": "hydrogen",
       "badge_color": "sky"
+    },
+    {
+      "title": "Why Is VinFast Auto (VFS) Entering The U.S. Electric Bus Market?",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc0lpZUhySjhtdGRDQXpnZUpEcGU4ck1yWXdmb3dCSGlQU25seGNDaGtjVFBQSTNKVHo4QzRySV9qNFIyNnZfQ3JTMWdnUWxzZW5SVTVST08xUVQzZEF1YXdGcUVFR3poeUZFWVAyNC0tUW4xUVVkTl9VenVRRndzeHVVUjlNdk9jcTRtaDNLbTBUVVpQ?oc=5",
+      "source": "Yahoo Finance",
+      "pub_date": "2026-10-07 07:00:00 UTC",
+      "pub_timestamp": 1791356400,
+      "description": "Why Is VinFast Auto (VFS) Entering The U.S. Electric Bus Market? Yahoo Finance",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
     },
     {
       "title": "LS Eco Energy to double bus duct capacity with investment in Vietnam factory",
@@ -740,6 +701,19 @@
       "category_vi": "Hydro & Pin Nhiên Liệu",
       "category_id": "hydrogen",
       "badge_color": "sky"
+    },
+    {
+      "title": "Vietnam Pictorial",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObDZpb1o3d0tPUXJKNy1Gclh1Wk5jbEpLSllOblp1T1dFMjJNNGVRbGV6UUp2X09vY09LUUNPRkhvZDU3d3BZWmN6V1VfcTVPT1QtdWQtTGMzWkhBN2I5alBKclhhNUVQTVIwQTRIYUh4eXZTVlJxc2VzYXVycEFPTVJZWk4xUVlWNVZrT1A0V2JCT1JHYmwyVDg0N0JlSWxJSnc?oc=5",
+      "source": "Thông tấn xã Việt Nam",
+      "pub_date": "2026-10-06 08:00:30 UTC",
+      "pub_timestamp": 1791273630,
+      "description": "Vietnam Pictorial Thông tấn xã Việt Nam",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
     },
     {
       "title": "Toyota and Isuzu launch updated hydrogen fuel cell bus",
@@ -807,19 +781,6 @@
       "badge_color": "amber"
     },
     {
-      "title": "Solaris unveils its North American electric bus range",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdlhrd19sa20yU1ZJRkFHdU5uYUljakZoR2Z3UzZiNWhTall3VE9VQjVFMWJvbktZS214bVdOUl8xUGF5TV80UGllMUtGb0ZpWWhWQnpGRC1jM2ZpYTdrd21OMHBoMzlLYVlJN21vb0o2LUE4X3NCU0N6bGRncWZfOF9ELUxFMmM4eFBsckYyVWJ4ZHg3THRj?oc=5",
-      "source": "Magyarbusz [Info]",
-      "pub_date": "2026-10-06 07:00:00 UTC",
-      "pub_timestamp": 1791270000,
-      "description": "Solaris unveils its North American electric bus range Magyarbusz [Info]",
-      "image": "",
-      "category": "Fleet & ITS Tech",
-      "category_vi": "Quản Lý Đội Xe & ITS",
-      "category_id": "its",
-      "badge_color": "amber"
-    },
-    {
       "title": "VinFast partners with NexMove to launch electri...",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGZoNjV1SXpUS2hZTTNrdEUzaHQ2YjNZWjBJV2F3V3BzTzRncWw1ci1OMXkwUUYwLUotdnZuYnlFbUdzYlRRRHlNak9CN2J1X1FHUGt1ZXlQU0wzQ2JXWU1SM3BUdHk1eGJQQllhUlZCWUJkWURQSEVfTTZ0WndCOWg4aHh3SUx3NW1Fc2lVYWJRRFdCV2UyaXVqekdXSU91RlE?oc=5",
       "source": "Pluang",
@@ -831,6 +792,19 @@
       "category_vi": "Xe Buýt Điện",
       "category_id": "electric",
       "badge_color": "emerald"
+    },
+    {
+      "title": "Solaris unveils its North American electric bus range",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdlhrd19sa20yU1ZJRkFHdU5uYUljakZoR2Z3UzZiNWhTall3VE9VQjVFMWJvbktZS214bVdOUl8xUGF5TV80UGllMUtGb0ZpWWhWQnpGRC1jM2ZpYTdrd21OMHBoMzlLYVlJN21vb0o2LUE4X3NCU0N6bGRncWZfOF9ELUxFMmM4eFBsckYyVWJ4ZHg3THRj?oc=5",
+      "source": "Magyarbusz [Info]",
+      "pub_date": "2026-10-06 07:00:00 UTC",
+      "pub_timestamp": 1791270000,
+      "description": "Solaris unveils its North American electric bus range Magyarbusz [Info]",
+      "image": "",
+      "category": "Fleet & ITS Tech",
+      "category_vi": "Quản Lý Đội Xe & ITS",
+      "category_id": "its",
+      "badge_color": "amber"
     },
     {
       "title": "Footage of a bus wading through deep floodwaters in Bangkok has gone viral on social media.",
@@ -911,32 +885,6 @@
       "badge_color": "sky"
     },
     {
-      "title": "Tires instead of a plug: Electric buses that charge during operation",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4cy1QSFczLWRaV1kzQUt5MWRwQkNRYTQ3c1llaS1aQ1lwdF9KOFhYTVNkUkprS3V6cVM0NVBsOFJUdmZZSTFEeHFVR19wZ3psUVh6S2dCaGZyeW5YWlBsU01nMzYzQQ?oc=5",
-      "source": "Tech Xplore",
-      "pub_date": "2026-10-05 07:00:00 UTC",
-      "pub_timestamp": 1791183600,
-      "description": "Tires instead of a plug: Electric buses that charge during operation Tech Xplore",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "Intercity and Transit Bus Market Size, Share | Forecast [2034]",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnQxSmpuS0QwaW51VWhNZmxOdFc1MUpQVVFoUGgxSzlySDBuY1ZrLTZCMUNGQnJIdVBzdEVvNlRmVkVrZzZ2Xzkwa1Atald5VFZ0V0JlUkdmUVdVNUlfRHhUZVVfRHZRTnNNRlVQTUN3aTVzekFNa3lpRnFQMXpXblFfM05lUQ?oc=5",
-      "source": "Fortune Business Insights",
-      "pub_date": "2026-10-05 07:00:00 UTC",
-      "pub_timestamp": 1791183600,
-      "description": "Intercity and Transit Bus Market Size, Share | Forecast [2034] Fortune Business Insights",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
       "title": "Toyota Launches Next-Generation Sora Fuel Cell Bus",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0WThOZjd0blZWTExKVG5Bakp0NUJoMlR1SUQzT2ZLVUtNNXR1SkZYdWNnZHpYNUlqYjk0WFdocGdfY3A4YWdpNHVHOGVaRmpWeUhCdGV6QnN1eFplanc?oc=5",
       "source": "The EV Report",
@@ -1015,19 +963,6 @@
       "badge_color": "amber"
     },
     {
-      "title": "Electric buses charge their batteries via the wheels, no cables needed.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZEtOT2dyQ09Gai1NSHpDRnhBS1k5cjBBVlVDUy1GeUJVUFpRTEt0QU9ObGZnajV3NUd6cFk1M2ZnZ281M0hmMGZiOVFMUmZfMGJ0NnhGbGpPRFpLanQtRjhQZUNvSy10SE9sUE5aUWVuS19RaXNrQ2c3NGdNOGw5Yk1R?oc=5",
-      "source": "Vietnam.vn",
-      "pub_date": "2026-10-05 07:00:00 UTC",
-      "pub_timestamp": 1791183600,
-      "description": "Electric buses charge their batteries via the wheels, no cables needed. Vietnam.vn",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
       "title": "Hanoi rolls out more electric buses",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblhwbF9Zc0lwa2pSbHpSOEg2Y1pqRGttVmxpZW5mdTFVdi1iU2pNSHBlTG82eEx2V1NHUjI4dUtoNFVxSDRtU0NZYnZmRFZXcGpGQThFLUVBeHRiX2V6X1doN3ZyR2hDSzB1X1IwUHkteEVieXEtVVJFZHo4TGRySGYyTHhFNlZ3VzRvV1NlSGdTTDhDY3FJc2JER0Fkc1JtNk84?oc=5",
       "source": "DTiNews",
@@ -1041,12 +976,77 @@
       "badge_color": "emerald"
     },
     {
-      "title": "Hanoi replaces diesel cars with 28 electric buses on routes 22A, 22B",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMzNlc3RPZ3ZBU1dMLXBMUmg1Z3RDNkRVSHUyUzQ4b3phbUxtMGtGeV9oVEhDNE1uQ1JMX3JhaUxxUlM1enIxSXBPWjhJcF9KYVlObkJSNHFaSGNJT0V4SnVhOUFrbHdYbmcxLW5DejV2cXRWTjNveVh3MGlxNWFHNjV2czB3U0F4QmlWZ2l4TFJkY2xaZUFFaUlVUnd1Z3lTejhlblBPVkU?oc=5",
-      "source": "Laodong.vn",
-      "pub_date": "2026-10-05 07:00:00 UTC",
-      "pub_timestamp": 1791183600,
-      "description": "Hanoi replaces diesel cars with 28 electric buses on routes 22A, 22B Laodong.vn",
+      "title": "Toyota Motor Unveils New Hydrogen-Powered Fuel Cell Route Bus",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU1R5QnI1Tk9BVnNmQ1pydmNUR2tvV1NSaXVXT2FoSWpPM1g0MmlhREZDRzlISU54TXhMLU95MWV0cnlxNUE4aXV0c2RreWpIZXZGOENTM20ybW1kcG5NTU1uM25IbkhCeTVFRE9vcjA0dTRocGxhQS1PNUllaFRlLVl5RHd6dmxvTVA1UGFtZ3dCWWEwQ3BFWWdtTDFSOEdveEJ2T1h0Sms?oc=5",
+      "source": "Moomoo",
+      "pub_date": "2026-10-05 03:54:59 UTC",
+      "pub_timestamp": 1791172499,
+      "description": "Toyota Motor Unveils New Hydrogen-Powered Fuel Cell Route Bus Moomoo",
+      "image": "",
+      "category": "Hydrogen & Fuel Cell",
+      "category_vi": "Hydro & Pin Nhiên Liệu",
+      "category_id": "hydrogen",
+      "badge_color": "sky"
+    },
+    {
+      "title": "VinFast Europe Strategy Leans on Buses, Dealers",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4NWxTOGljSDBEWUxZeTFMRTFBUi14SU9BcGJHM0tXeHZUTzBiOTZGRlJBdW5ZZlFoMV9aS09JemNyQzhMLXBEVVNURDhFcE9fWlhCMHgyOGZQNzhaOE1JaVIxS3pTMXQybGxCR2RNdGwzSVpLUVc1SnZ3?oc=5",
+      "source": "The EV Report",
+      "pub_date": "2026-10-02 07:00:00 UTC",
+      "pub_timestamp": 1790924400,
+      "description": "VinFast Europe Strategy Leans on Buses, Dealers The EV Report",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "Göttingen advances €60 million electric bus depot project (for 100 e-buses), opening planned for 2031",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNazVnRjV2cDR5T25hNExodmtLUWRFS0VZSTlwZDdkdDllMG0wbkFwU2RjbXVMWXlrckJOSVZoRjUwcEhLTzB0MmszWExnVHRRVjJISzlla3NKb210SzdpQ05BMnpUNkctNnB0VFdBM2VKSFd0TzgxOVpfZTg1QlVBcllmWlBiMkZsSzA1cWZLMVVmOU9hdUgwRC1pb1Q4WTNTQVV5SWpvb29COFJsQy1UWjhnd0diZXVleTRxS1BLN0FMVmJFcE01bFBnNDgwekl1THFMdGpSMTJubjdP?oc=5",
+      "source": "Sustainable Bus",
+      "pub_date": "2026-10-01 07:00:00 UTC",
+      "pub_timestamp": 1790838000,
+      "description": "Göttingen advances €60 million electric bus depot project (for 100 e-buses), opening planned for 2031 Sustainable Bus",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "Self-Driving Bus Market Size, Share, Growth Report, 2034",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkdVFnbWdzS3l2RW9UejdQOVVrQUhjTjhBV0FVS0FhRWpFR1RTbVllWGdGcHRfcjM4R2loTE5HQ3RESjlJdE5rLVBTODBEa2R5OUV6emJBMlBCTndqdm9FV3k3SWFvSVlvM0RpeGdCajFKNGRpS2t1d1Nn?oc=5",
+      "source": "Fortune Business Insights",
+      "pub_date": "2026-09-28 07:00:00 UTC",
+      "pub_timestamp": 1790578800,
+      "description": "Self-Driving Bus Market Size, Share, Growth Report, 2034 Fortune Business Insights",
+      "image": "",
+      "category": "Autonomous & AI",
+      "category_vi": "Xe Tự Hành & AI",
+      "category_id": "autonomous",
+      "badge_color": "purple"
+    },
+    {
+      "title": "Intercity Transit Authority approves purchase of tube trailers to support hydrogen bus fleet",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa21OU1Y0UENURk5nTV9mMzhwWEU3NjNiZTRzOE9Ha3U0dUNsZFoxeHlDTTZMNlFNSjNRTllrdEFtTHFJRHZ4c1I2bTVGYnVselFKWGR6RHBCamFjcjZvS3c4WmtKOFNPdFJWN1poc1g1c2lhdlFFMnVTNk1sLXBnYlFWVkJoalpCVHdhbUVfZ2NjdDQ0SXZqb25BbDNYcjV2aHRCZXFEU2pfT3BlT1VjMEdzV09rSDRic3RVUFNDQUVWUzJRMm40TDVfZlp4eTQ?oc=5",
+      "source": "The Jolt News",
+      "pub_date": "2026-09-24 07:00:00 UTC",
+      "pub_timestamp": 1790233200,
+      "description": "Intercity Transit Authority approves purchase of tube trailers to support hydrogen bus fleet The Jolt News",
+      "image": "",
+      "category": "Hydrogen & Fuel Cell",
+      "category_vi": "Hydro & Pin Nhiên Liệu",
+      "category_id": "hydrogen",
+      "badge_color": "sky"
+    },
+    {
+      "title": "Sustainable Bus Awards 2027 goes to Solaris, BYD and the Irizar-Scania duo",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEVtNHQ3VWVScExZdTR2eVg4eS1mQ2QydGdOb1h4OTBSZ2lGOVNYZVIxRHBUQVNEUW5nN2E5UWVMRHd1NWJKRWEzYUJ4WVlaQXhwcVUtMlB3bWk3U0FZaFN4cnNBVEVPWEt5VGRFaC1IOFRzcnN2MHE0STRzMlVDMlJTUzd6WF81TUxBVEZoN3RWd3Z6V0pWa0tXZ1ZXRzc3X2Q4MGxtSlE5X0FMenBQWlFR?oc=5",
+      "source": "Magyarbusz [Info]",
+      "pub_date": "2026-09-24 07:00:00 UTC",
+      "pub_timestamp": 1790233200,
+      "description": "Sustainable Bus Awards 2027 goes to Solaris, BYD and the Irizar-Scania duo Magyarbusz [Info]",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
