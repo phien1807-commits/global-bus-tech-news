@@ -1,25 +1,25 @@
 {
   "metadata": {
-    "last_updated": "2026-10-25 00:22:14 UTC",
+    "last_updated": "2026-10-26 00:31:50 UTC",
     "total_articles": 80,
     "sources_count": 6,
     "stats": {
       "total": 80,
-      "electric": 55,
+      "electric": 54,
       "autonomous": 3,
       "hydrogen": 12,
-      "its": 7,
+      "its": 8,
       "market": 3
     }
   },
   "articles": [
     {
-      "title": "100 all-electric sleeper buses from Kim Long Motor are about to start operating inter-provincial routes.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0x2QlYwd1BucDV6QlBwbUxsaDFZZmdjc25sRV9RRFZULUZXYklsbmpRbXZxd05jNzJ1TFRmVEVCeFMxcnA5SDJSUV9iUXRCZ1pHY0N5QTRGbkVIR2V2SHk5MjN6WS1ZemlfRmhka2VPUUpyem9sSHoyUDBMdFVZYjNSTWViMmt3amJNZkxxUWhkRXhPei1BRVV3?oc=5",
+      "title": "Phuong Trang is about to introduce 100 all-electric sleeper buses to operate on inter-provincial routes.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2FqdmE0WGNIUmZMODBSZkR6NnFCZk1NN3BWSndYUzJMdVgwbDNWZzQ2aGktbXRFNjU0Xy1BOWVkT0t0cW8tV2FKQWt2bzF0T0M2UVRJSklGUXVKbjVYYUZUZVFld1hqTmFrb3dVbGpqM1hETlJkZnlEa3JURUNvZC1rd0ZUZGNsWGxRUTNTUU5xTWZDNnhuTm1qbldMcGFXc08xWg?oc=5",
       "source": "Vietnam.vn",
-      "pub_date": "2026-10-23 21:47:12 UTC",
-      "pub_timestamp": 1792792032,
-      "description": "100 all-electric sleeper buses from Kim Long Motor are about to start operating inter-provincial routes. Vietnam.vn",
+      "pub_date": "2026-10-24 07:00:50 UTC",
+      "pub_timestamp": 1792825250,
+      "description": "Phuong Trang is about to introduce 100 all-electric sleeper buses to operate on inter-provincial routes. Vietnam.vn",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -33,6 +33,32 @@
       "pub_date": "2026-10-23 15:39:28 UTC",
       "pub_timestamp": 1792769968,
       "description": "Electric buses pave the way for green transportation in Thai Nguyen. Vietnam.vn",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "Electric sleeper buses manufactured in Vietnam have been introduced for intercity transport for the first time.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWhwVkx4cTFleVBuWDl3ZUxaTklBWVkwUXNxYWNFdHhvcE1JandUbno4bjlIaDlhWWNDMWx1NkJiOHFLOWdiRnFKbUtFa01GTUdydXJ5ZVV5MExuOVA1VmNGSzMwRmNDdktJSlZZZGpEZVY2aG9DV1VDcjUzUEgtNUhQZ1NTVE9INDRIVGdUSjR5S2pMeTh0RmVCTUp6QVEwWjNmZVdjUjBtX2liWGp2RUN1ZGE?oc=5",
+      "source": "Vietnam.vn",
+      "pub_date": "2026-10-23 15:20:16 UTC",
+      "pub_timestamp": 1792768816,
+      "description": "Electric sleeper buses manufactured in Vietnam have been introduced for intercity transport for the first time. Vietnam.vn",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "KIM LONG MOTOR delivers a batch of 100 KIMLONG99 EV-G34 all-electric sleeper buses to FUTA Bus Lines.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHpnVTBERDgySVdyZl9iWTJ0NkY2cng4M2RrWlVCcU5ycUxRUnJieEZLTktpOTZnSkVGRVZhQjRpbkZkU1c5OWp2SzNtTzgyTF9DdjcwSm5MYU5WRXJoV1JGYlY4TFczVEp4d3RZai1QQkdLSzJVd2NLbDVjQ21XanhPTHRvUW5qTWNDT3VqbHJQWlV2UmNsSnZZTGdKNk5wSlduQWpuNlpaVFZkU2xZOTVUTTRjVlhRajJsRTln?oc=5",
+      "source": "Vietnam.vn",
+      "pub_date": "2026-10-23 09:55:25 UTC",
+      "pub_timestamp": 1792749325,
+      "description": "KIM LONG MOTOR delivers a batch of 100 KIMLONG99 EV-G34 all-electric sleeper buses to FUTA Bus Lines. Vietnam.vn",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -248,19 +274,6 @@
       "badge_color": "amber"
     },
     {
-      "title": "Ho Chi Minh City launches first electric double-decker sightseeing buses",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnpOaGRzZjFnQWQ1Rm9Bcm41ZmFmcWR1a25MNHRYVEhCT19SUzVGMzhQanZrZU5qTFRYNklKajA3MmRuaXBkRWJScE9Ga05VRXE5UzFYTlhFQlQxMG1YcFMwUjhZelVwQU5zbHYzRTAxdEUyUjhLRG1MTklzSUxnNm1HSC13YTFBbC1jSkhpVXFHdnUxaVItVElJY2g3RWoxdG1mV0dnMkJ3MnplT1ZfdDV3bDRMdzdXakhv?oc=5",
-      "source": "Tuoi Tre News | The News Gateway to Vietnam",
-      "pub_date": "2026-10-20 11:36:00 UTC",
-      "pub_timestamp": 1792496160,
-      "description": "Ho Chi Minh City launches first electric double-decker sightseeing buses Tuoi Tre News | The News Gateway to Vietnam",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
       "title": "Bus Cap teams up with StarCharge to explore EV charging infrastructure, technical services",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGNXOWI2RlRVSG5ld0VhWnhxWmdRSUE1NmhFalBWYURVeGhnazh5OHlEUjBGenNDd1p2R2t2S3g5eFdQLXZsZjFnemIzejN1cGphc2RlR1hrMVFrTkJNMG1yTTVSS0RBNmNtMGFiWkc5eHhVWE9iOXdub19TN25HM1lxNU1LME9MeHRySkNtR29NdGFEdDlNdFltWEFmbkZ4bUVLWGRiTkltQm82Ni1WS01ub1lNd3lSSGJLbGw0eldnZ3E0RzJ1UDFlaWVmQQ?oc=5",
       "source": "The Malaysian Reserve",
@@ -287,38 +300,12 @@
       "badge_color": "purple"
     },
     {
-      "title": "Bus riders invited to Victor Valley Transit Authority town hall",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSWtTeUZ3Mzd6VkFMZjduWEZCZjhNeDR3WEVnbXB6dkVsekwyZmM4dDU3M3ZUaW5aVC1lN2dXclZyWVFJbU9JWjJ2U2ozME91M0F5dWluN0JaMkJZYXFtR3FsMUJRQmthVGtrdG9pajVrbk53Yk82TWt3VWNwdWE3ZU9Ma3pFbTJldUdV?oc=5",
-      "source": "Yahoo",
-      "pub_date": "2026-10-19 13:00:48 UTC",
-      "pub_timestamp": 1792414848,
-      "description": "Bus riders invited to Victor Valley Transit Authority town hall Yahoo",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
       "title": "HCM City integrates metro and bus tickets into VNeID",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUtWeFZvX0lKRUw0NmZzdUcwOEttLVpxTWhiYkw1LU4wbVNuRTBncnNvcXFkWVlJYlJDSEQ0dlpxQXgzWFFwMHIzZG9Kb2JJZVV2VWotWFdHY1RSUjdnTFlKWkZOQXU5cUhacXE2R0ZoTG4tU0Z2dm5lSWZCUm16R0xQMHNIOXJBaEJ1Vll4Tkd0emFF?oc=5",
       "source": "Báo VietNamNet",
       "pub_date": "2026-10-18 10:17:00 UTC",
       "pub_timestamp": 1792318620,
       "description": "HCM City integrates metro and bus tickets into VNeID Báo VietNamNet",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "VinFast to enter the US market with electric buses",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUhoS3BiYXBBYU1rajZzZ1AxM2ZmbkZfVHQ4R1JiWmM3RXVjNmdOY29XdTdWZWkxRmdwb09pYjFBcDZhN2h0X09DZkJ2dG5QcHdTOVVrTlJKUXhZSTU1TFV4bHlBZGtvT3lwUy0wSzJnZkNSb0l6aWFRd056ZGxGcFZFc3NKSW8tS2hTcFExMU11RXc?oc=5",
-      "source": "Magyarbusz [Info]",
-      "pub_date": "2026-10-16 19:23:01 UTC",
-      "pub_timestamp": 1792178581,
-      "description": "VinFast to enter the US market with electric buses Magyarbusz [Info]",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -352,6 +339,19 @@
       "badge_color": "emerald"
     },
     {
+      "title": "VinFast to enter the US market with electric buses",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUhoS3BiYXBBYU1rajZzZ1AxM2ZmbkZfVHQ4R1JiWmM3RXVjNmdOY29XdTdWZWkxRmdwb09pYjFBcDZhN2h0X09DZkJ2dG5QcHdTOVVrTlJKUXhZSTU1TFV4bHlBZGtvT3lwUy0wSzJnZkNSb0l6aWFRd056ZGxGcFZFc3NKSW8tS2hTcFExMU11RXc?oc=5",
+      "source": "Magyarbusz [Info]",
+      "pub_date": "2026-10-16 07:00:00 UTC",
+      "pub_timestamp": 1792134000,
+      "description": "VinFast to enter the US market with electric buses Magyarbusz [Info]",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
       "title": "AC Transit plans cuts to services, operating hours if Regional Transit Measure fails",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXdNc1BfSDJxUmVNNWJCX0dNeVZNOVNnczhPQ2JNRU9MX3ItZm1HZUNIVExER0Y4TWNXdFB1T3N6dm54SlZrZmR3c1cwUWhIbFVDYnhzbWRlb1p5c1RWM2NFdUxHNUlXMGdfVGVjcmt2MGxvZlpYZTJ1VXlIdGkwYzFaYkRES1VmUUF5SjUwNEUzTS1wbVZ2a3dzaVVyTFo1dEpoMFZVUk9QRHFHdTBjVU1Gc0lqakNvNDdYc3pGUVg?oc=5",
       "source": "The Mercury News",
@@ -368,8 +368,8 @@
       "title": "Rinko Bus, Toshiba and Drive Electro Technology Start Demonstration Project for Electric Bus with Super-Rapid Charging in about 10 Minutes",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50VFppNDZJNW5YU0FtNXF2MTZYM0NnaGUxUTFQOS1kdkZsc2ZsdFJ6WDBJTnBPdzNIeXh1YkFqcVpIZ1p1cEJ0YVNheVBkdGtsZzNteFRYWEp6S0VRbzdtajJ3WjVrSFZnYmNRa1hxZ196U1k2cFJCeVBybzgzTTg?oc=5",
       "source": "東芝",
-      "pub_date": "2026-10-15 10:52:30 UTC",
-      "pub_timestamp": 1792061550,
+      "pub_date": "2026-10-15 07:00:00 UTC",
+      "pub_timestamp": 1792047600,
       "description": "Rinko Bus, Toshiba and Drive Electro Technology Start Demonstration Project for Electric Bus with Super-Rapid Charging in about 10 Minutes 東芝",
       "image": "",
       "category": "Electric & E-Bus",
@@ -638,6 +638,19 @@
       "badge_color": "emerald"
     },
     {
+      "title": "How Bus Expansion At VinFast Auto (VFS) Has Changed Its Investment Story",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPakNEN3J4eXZNbEozVzBDOFNDeEZNY1JyOHhXeXBVR0FXS21Ka0ZsSzV2ZUlRMjVYS0c4MW1tXzJfdktnYVRtczdWUmgxSHJyZmItY1U1NmlmeXhCU1FFUEIzd1Ixb0drbWVoSmVFdkNRdHRJRDNyZVFIV0FGbjBlaHpROEJqdHFPcHd3Z0FXVVlCR2hjU0p3MVV1TS0xeDZwOUFmUDlXQ0M4TmZ4dVp3ZGt4V3lFNEI5MUhsX0dtMXVfRnpBc185VS1ta0pIM3FCUHgzTXhUY0k2U1NKelVrRUdpakVHUXBrNk9CaXlmNFRwSVZPT01rNVVWRERCeEc0a0VEd1E1aVNhc1FOY1VOSzdzdW9oLTFxZGNBci1DZWlxZThJYVd3cl85UHZuaHh3UHlVS3U2d2Vad1ZITnpvR3VvdDdqTWppZ3NzTHczRlI5UGJ4MWN5aV9RdmtxeEx0N0Jpd2xHRmFSTVhfUzNZQU9FZWJUUTdSZkd0RjFPT0NQNk0?oc=5",
+      "source": "Junta de Castilla y León",
+      "pub_date": "2026-10-08 07:00:00 UTC",
+      "pub_timestamp": 1791442800,
+      "description": "How Bus Expansion At VinFast Auto (VFS) Has Changed Its Investment Story Junta de Castilla y León",
+      "image": "",
+      "category": "Fleet & ITS Tech",
+      "category_vi": "Quản Lý Đội Xe & ITS",
+      "category_id": "its",
+      "badge_color": "amber"
+    },
+    {
       "title": "Hanoi bus operator steps up push for friendlier service",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkRXc1N2N0dWTWxZQXRvS2ZuMWdGbnRYbDh4OU56bUtEZmhGYjg2R1JXMDAwZXFuZ1J4bkU3SW5UNTN1dUFnTjc1dFBwVVE5MENGaldlOVhha0o1bXVlek5rT0hxYkRfXzcwaHRxM0tLcmt6bmJrR1pXUGo4SE1ZNWMzVFgtdDNsRDlnRWJkOEQ0UWx4bUJrTTFob0g2bGtuMkRDd1AyUHYwdDZiMGd4bmlmMlBaUW1JOWxLMUdB?oc=5",
       "source": "DTiNews",
@@ -649,19 +662,6 @@
       "category_vi": "Xe Buýt Điện",
       "category_id": "electric",
       "badge_color": "emerald"
-    },
-    {
-      "title": "Toyota launches new generation Sora fuel cell bus, based on Isuzu bus platform",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlU0WVM5al9FN1RHLUN5SE1nVzlUX185aW5WTkZrVGtyZjV5U0YxMmxRSVFQYi1iZnpFR05Ya2NBNHgtZlI0NVlkZWh6WmVPOTYxVUtDMnFrd3ZOQVNvY0xOVUhOMnFPVzJjLW44RWlLVFlBTWZVbjlqMEZ4NEZORGJIQmFGU2R4c0RGeDVnbnZFUQ?oc=5",
-      "source": "Sustainable Bus",
-      "pub_date": "2026-10-07 11:40:14 UTC",
-      "pub_timestamp": 1791373214,
-      "description": "Toyota launches new generation Sora fuel cell bus, based on Isuzu bus platform Sustainable Bus",
-      "image": "",
-      "category": "Hydrogen & Fuel Cell",
-      "category_vi": "Hydro & Pin Nhiên Liệu",
-      "category_id": "hydrogen",
-      "badge_color": "sky"
     },
     {
       "title": "Why Is VinFast Auto (VFS) Entering The U.S. Electric Bus Market?",
@@ -703,6 +703,19 @@
       "badge_color": "sky"
     },
     {
+      "title": "Toyota launches new generation Sora fuel cell bus, based on Isuzu bus platform",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlU0WVM5al9FN1RHLUN5SE1nVzlUX185aW5WTkZrVGtyZjV5U0YxMmxRSVFQYi1iZnpFR05Ya2NBNHgtZlI0NVlkZWh6WmVPOTYxVUtDMnFrd3ZOQVNvY0xOVUhOMnFPVzJjLW44RWlLVFlBTWZVbjlqMEZ4NEZORGJIQmFGU2R4c0RGeDVnbnZFUQ?oc=5",
+      "source": "Sustainable Bus",
+      "pub_date": "2026-10-07 07:00:00 UTC",
+      "pub_timestamp": 1791356400,
+      "description": "Toyota launches new generation Sora fuel cell bus, based on Isuzu bus platform Sustainable Bus",
+      "image": "",
+      "category": "Hydrogen & Fuel Cell",
+      "category_vi": "Hydro & Pin Nhiên Liệu",
+      "category_id": "hydrogen",
+      "badge_color": "sky"
+    },
+    {
       "title": "VinFast to bring electric buses to US in 2028",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWlrUEx1SjBkNDRxbHVGQU13dUhMZjktY2wxR3ZCeDBPV1A0VlNRZ1Y3WDZKSEZBcE5oZFpMSlU1Nm5Ramg2MnZIcXFWZmU4LXdfSHJTeERvWkhvZk5EVzE3YXNBMjc0Q0lEODhrMnRwaFUzNDVQemV0RHpveDVJSDd1Y2tKU1hNR1Jj?oc=5",
       "source": "electrive.com",
@@ -731,10 +744,10 @@
     {
       "title": "VinFast Plans US Electric Bus Deliveries for 2028",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXh4WFpUeENDM25pWk1SeXBURUh1V0lQWEkxZ2hUWWxuNDBLb0l2eFRNVFpfNXA4TGtPWHZILWRkR3gxeEVKOG9VQjdzcHFOR3N6Y1Q0YWVOUTBuTkx5b3d4bTdRV0x0UEgzWlR1bHI0Umw0WlB3UXd3eDZlYlJST2NTT0hJOWtUOEVhWkNyRWRXbUJjdWxCWEJTRQ?oc=5",
-      "source": "eponline.com",
+      "source": "EP Magazine",
       "pub_date": "2026-10-06 19:24:54 UTC",
       "pub_timestamp": 1791314694,
-      "description": "VinFast Plans US Electric Bus Deliveries for 2028 eponline.com",
+      "description": "VinFast Plans US Electric Bus Deliveries for 2028 EP Magazine",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -950,6 +963,32 @@
       "badge_color": "emerald"
     },
     {
+      "title": "Bus Air Suspension System Market Size, Share | Growth [2034]",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNThkWVFjNUlCY2ZMempBWWMxQWJ4NHNvRFF5Nkc0M0Q0cHBDV1ZzWHAycXVxRkpXZ2szS0hkMGpkVVI0dXBmS0lKcDA2UXhXNEVzOUZWXzgtcU1iZmFvMnZCZkpWS0NZYmJoVlE1Q3JSV1Z4blZUd3BPQVFEZ09sMXJxYXNjZw?oc=5",
+      "source": "Fortune Business Insights",
+      "pub_date": "2026-10-05 07:00:00 UTC",
+      "pub_timestamp": 1791183600,
+      "description": "Bus Air Suspension System Market Size, Share | Growth [2034] Fortune Business Insights",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "Intercity and Transit Bus Market Size, Share | Forecast [2034]",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnQxSmpuS0QwaW51VWhNZmxOdFc1MUpQVVFoUGgxSzlySDBuY1ZrLTZCMUNGQnJIdVBzdEVvNlRmVkVrZzZ2Xzkwa1Atald5VFZ0V0JlUkdmUVdVNUlfRHhUZVVfRHZRTnNNRlVQTUN3aTVzekFNa3lpRnFQMXpXblFfM05lUQ?oc=5",
+      "source": "Fortune Business Insights",
+      "pub_date": "2026-10-05 07:00:00 UTC",
+      "pub_timestamp": 1791183600,
+      "description": "Intercity and Transit Bus Market Size, Share | Forecast [2034] Fortune Business Insights",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
       "title": "Toyota launches new fuel cell route bus",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbDRkbzg1b3I5WF9HZHEzZXNpS0VWTmNQZ2VCLVRVbXl5OUVqRzk0d2JyRzlSM3RqMXdUX0VFT05YaGxZZUN6dVUtazU2Vmk1NzJUcUdZTlNCSExqYjNRMFdlcWd4NWZET2NwdmVhX3A3ekJLenB1c1NZUDhsdkNVS3BLcG5hTHJDQV9JeExSQnJ6VUR2?oc=5",
       "source": "Power Progress",
@@ -1008,45 +1047,6 @@
       "pub_date": "2026-10-05 07:00:00 UTC",
       "pub_timestamp": 1791183600,
       "description": "VinFast to bring electric buses to the U.S. with NexMove, deliveries planned from 2028 Sustainable Bus",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "Hanoi puts 28 more electric buses into operation",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekcyMUxzZHpRWVZhSURQeEh4Z0N0dG9Gb3Q4NWpON1Rjdk5JZGNYNHEzMUtpS0NMS0hzNm92ZzFPYnBmSS00UTBNOUdzeWZyQWtFWGlIOC1EYU41UkhjN01GNmUxXzlxWE91dGI1Q2hhR2dUOUxrR1RiUEs4UXNtQnFMeEoySk41UUpUeWRnSm1EWkpMRUZBWkh5SQ?oc=5",
-      "source": "Tuoi Tre News | The News Gateway to Vietnam",
-      "pub_date": "2026-10-05 07:00:00 UTC",
-      "pub_timestamp": 1791183600,
-      "description": "Hanoi puts 28 more electric buses into operation Tuoi Tre News | The News Gateway to Vietnam",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "Hanoi rolls out more electric buses",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblhwbF9Zc0lwa2pSbHpSOEg2Y1pqRGttVmxpZW5mdTFVdi1iU2pNSHBlTG82eEx2V1NHUjI4dUtoNFVxSDRtU0NZYnZmRFZXcGpGQThFLUVBeHRiX2V6X1doN3ZyR2hDSzB1X1IwUHkteEVieXEtVVJFZHo4TGRySGYyTHhFNlZ3VzRvV1NlSGdTTDhDY3FJc2JER0Fkc1JtNk84?oc=5",
-      "source": "DTiNews",
-      "pub_date": "2026-10-05 07:00:00 UTC",
-      "pub_timestamp": 1791183600,
-      "description": "Hanoi rolls out more electric buses DTiNews",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "Hanoi replaces diesel cars with 28 electric buses on routes 22A, 22B",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMzNlc3RPZ3ZBU1dMLXBMUmg1Z3RDNkRVSHUyUzQ4b3phbUxtMGtGeV9oVEhDNE1uQ1JMX3JhaUxxUlM1enIxSXBPWjhJcF9KYVlObkJSNHFaSGNJT0V4SnVhOUFrbHdYbmcxLW5DejV2cXRWTjNveVh3MGlxNWFHNjV2czB3U0F4QmlWZ2l4TFJkY2xaZUFFaUlVUnd1Z3lTejhlblBPVkU?oc=5",
-      "source": "Laodong.vn",
-      "pub_date": "2026-10-05 07:00:00 UTC",
-      "pub_timestamp": 1791183600,
-      "description": "Hanoi replaces diesel cars with 28 electric buses on routes 22A, 22B Laodong.vn",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
