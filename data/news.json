@@ -1,18 +1,57 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06 00:48:08 UTC",
+    "last_updated": "2026-11-07 00:44:33 UTC",
     "total_articles": 80,
     "sources_count": 6,
     "stats": {
       "total": 80,
       "electric": 33,
-      "autonomous": 17,
-      "hydrogen": 19,
+      "autonomous": 19,
+      "hydrogen": 18,
       "its": 8,
-      "market": 3
+      "market": 2
     }
   },
   "articles": [
+    {
+      "title": "NFI Q3 Revenue Rises 14.5% to $1 Billion; Backlog at $12.5 Billion",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ab09vaGpXSDBzX1FuNGpxd1BrcVZfYmV3bno4cEhDcUo2bV9WOEp4N3JzY2F6Tll4bFA4S0REWmlGN3RzVkZHYXRYbnRKWmRRTTBZUmNZc1lHZ3AzaEVhRA?oc=5",
+      "source": "The EV Report",
+      "pub_date": "2026-11-06 12:11:27 UTC",
+      "pub_timestamp": 1793967087,
+      "description": "NFI Q3 Revenue Rises 14.5% to $1 Billion; Backlog at $12.5 Billion The EV Report",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "Los Angeles deploys bus-mounted cameras to monitor illegal parking in bus lanes and stops",
+      "link": "https://www.sustainable-bus.com/its/los-angeles-automated-enforcement-illegal-parking/",
+      "source": "Sustainable Bus",
+      "pub_date": "2026-11-06 11:57:58 UTC",
+      "pub_timestamp": 1793966278,
+      "description": "Los Angeles Department of Transportation (LADOT) has launched automated enforcement of illegal parking in bus lanes and bus stops using cameras installed on DASH transit buses, with the programme starting on 2 November 2026 and monetary penalties scheduled from 2 January 2027. Th...",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "MAN and MVG Launch Autonomous Bus Rides with Test Users in Munich - Automotive / Trucking / RV - MAN Group",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDhzMDNhWkF6MGhzbm9ITjlUY2NPNW03WWZjS3F4bDF3SXpvOGEtYUJOb3pURFJvai16S0VRM2ZEVXZFWjc5MEh5M1R5eFBRMDhkUHJrSXMySlVrSXV5OXE0SXRCU25MNXlWUkNiemdyV2FMYTdGVFFOY3gzT285VkJReWJzcUJLdE42cTdCdlcyMUFSYmctYl9vbURNRmJyc0pGUUd6N2Fnb3lX?oc=5",
+      "source": "NewswireToday",
+      "pub_date": "2026-11-06 10:49:20 UTC",
+      "pub_timestamp": 1793962160,
+      "description": "MAN and MVG Launch Autonomous Bus Rides with Test Users in Munich - Automotive / Trucking / RV - MAN Group NewswireToday",
+      "image": "",
+      "category": "Autonomous & AI",
+      "category_vi": "Xe Tự Hành & AI",
+      "category_id": "autonomous",
+      "badge_color": "purple"
+    },
     {
       "title": "Biz Briefs: Ballard, Solaris Partner, New Flyer Receives Florida Order, and More",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHhxQ1c3UWhJdmM4MDB0elptTnc4VDNUMTJIY3ZkbkVlNmdLTFlJeERQenh0VHF4TkZHMXJCSlJfWVg4b3JneTZvX0RWTFlpNmRVNU9sOWRkZHFpSGNNalhsMW40czhHcFhXLTZUYlVaN3NLOUJmT3FsV2EyNTg2X2owUzF5UVRYWFdIdFB5dHo2RW5GemczUlBGaUdabXU3QmtSVV9tQ0xZc00xaHpzQ3pR?oc=5",
@@ -235,19 +274,6 @@
       "badge_color": "blue"
     },
     {
-      "title": "Singapore to deploy 660 new electric buses from the end of 2026",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUp0SVh3dTZ0RVY2eWVibGRHMHBNYzRYbjEzZmU2SE41Y0VLazFsVHEzY1JUbGt6LUR0SFNpYTQzdmlrNXpGb19fMGlUQ2tSb3g2aDJfcWU2QmExTmJpYmQ0V2Z5Yzk1RkJxQ2dFUGJwUl8xaEowYTNGOHhucGtIQjcycG81b1FUR2pncFhUUGxxNFk1V24tX2NvWnNtTlpu?oc=5",
-      "source": "TNGlobal",
-      "pub_date": "2026-11-04 07:16:59 UTC",
-      "pub_timestamp": 1793776619,
-      "description": "Singapore to deploy 660 new electric buses from the end of 2026 TNGlobal",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
       "title": "Skoda Group takes over former Bluebus site in France for bus engineering activities, 17 jobs potentially involved",
       "link": "https://www.sustainable-bus.com/news/skoda-bluebus-site-take-over-research-and-development/",
       "source": "Sustainable Bus",
@@ -285,19 +311,6 @@
       "category_vi": "Xe Tự Hành & AI",
       "category_id": "autonomous",
       "badge_color": "purple"
-    },
-    {
-      "title": "ComfortDelGro Australia and Zenobe to build Melbourne depot for 130 electric buses",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXM5YXdKMlJoVTJ1U1JnbHdOLVNhNWpKcVdWbmw5T2x3YW5HeU02bTduZ2lTUkVPVUUyZF85WWZTc0tyRWpHZURiNFVmMDk1d0ZGaHoxSzBmY2x0SjlSNHFsS1dJOVhHOU9lZUxMTThtVnJuVVdvSVNRQk10Umgxd1pQbXM3ZlBUWXVXbHQ5RlJCYkxmWWpldW9Rb1F0bU9RMWVCaGl1NTdLbENRZ1BjSklpbEVLQQ?oc=5",
-      "source": "Charged EVs",
-      "pub_date": "2026-11-03 16:25:34 UTC",
-      "pub_timestamp": 1793723134,
-      "description": "ComfortDelGro Australia and Zenobe to build Melbourne depot for 130 electric buses Charged EVs",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
     },
     {
       "title": "BYD has unveiled the C12 DUO, its new electric coach",
@@ -352,24 +365,11 @@
       "badge_color": "purple"
     },
     {
-      "title": "Tata Motors secures control of Iveco Group, new board takes office",
-      "link": "https://www.sustainable-bus.com/news/tata-motors-acquisition-iveco-group/",
-      "source": "Sustainable Bus",
-      "pub_date": "2026-11-02 07:00:58 UTC",
-      "pub_timestamp": 1793602858,
-      "description": "Iveco Group has officially become part of Tata Motors. On October 30, the two companies announced the completion of the initial settlement of the takeover offer launched by the Indian manufacturer, marking a decisive step in the acquisition process first announced in July 2025. F...",
-      "image": "",
-      "category": "Market & Tenders",
-      "category_vi": "Thị Trường & Dự Án",
-      "category_id": "market",
-      "badge_color": "blue"
-    },
-    {
       "title": "Visitors can try on-demand self-driving shuttles on Sentosa from early 2027",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjlhWlIzOXhPdjk3dS0waWFhNFZQcEVRUTFOaVhwci1HcGdGUENISW1saFl0dFNXbzcxd2txQThZd2ZiZ0hlWjJyTjdVVVFvb29HUGdoblFTRXpESUVmOTVhX19zTWFUZFA1S0IxWHphTnpJM05kY2VDY0ZMVWwzTW5xckFYQjFMNU5XYkRnTGR6cGJRdllnSDRkLV9HMF9SM2RTdVdmUWdESjZNanRvQ0MtT1h6aDNnVGx4QXpPb0diZw?oc=5",
       "source": "The Straits Times",
-      "pub_date": "2026-10-29 05:00:00 UTC",
-      "pub_timestamp": 1793250000,
+      "pub_date": "2026-10-29 07:00:00 UTC",
+      "pub_timestamp": 1793257200,
       "description": "Visitors can try on-demand self-driving shuttles on Sentosa from early 2027 The Straits Times",
       "image": "",
       "category": "Autonomous & AI",
@@ -397,19 +397,6 @@
       "pub_date": "2026-10-15 07:00:00 UTC",
       "pub_timestamp": 1792047600,
       "description": "Rinko Bus, Toshiba and Drive Electro Technology Start Demonstration Project for Electric Bus with Super-Rapid Charging in about 10 Minutes | News 東芝",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "VinFast to bring electric buses to the US through NexMove service deal",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVTdkRUllcHkxa3Jpa0ljZHZBcDVtRmZiU2VvRmYxUlBHenNGc3FzRHhuM3d5a1RRdks3T1B4U0lnWWNkal95QlVDZE8zMWR5NWhkeVFicVNkZW5tZHh2dzk4T3h2RnVoN2ZRNmwzRkJkem9EcGNyZklMS1h5SHVIVEJYdXU0LXZQdzcxUjFxcEgyN1hSbC1HT3VHTkU1aFBHLWxfVXI2aVJ1YjFKS2lSSzBqSlFid0FnUjRj?oc=5",
-      "source": "EV Infrastructure News",
-      "pub_date": "2026-10-13 07:00:00 UTC",
-      "pub_timestamp": 1791874800,
-      "description": "VinFast to bring electric buses to the US through NexMove service deal EV Infrastructure News",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -482,6 +469,19 @@
       "badge_color": "emerald"
     },
     {
+      "title": "VinFast to bring electric buses to US in 2028",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWlrUEx1SjBkNDRxbHVGQU13dUhMZjktY2wxR3ZCeDBPV1A0VlNRZ1Y3WDZKSEZBcE5oZFpMSlU1Nm5Ramg2MnZIcXFWZmU4LXdfSHJTeERvWkhvZk5EVzE3YXNBMjc0Q0lEODhrMnRwaFUzNDVQemV0RHpveDVJSDd1Y2tKU1hNR1Jj?oc=5",
+      "source": "electrive.com",
+      "pub_date": "2026-10-07 07:00:00 UTC",
+      "pub_timestamp": 1791356400,
+      "description": "VinFast to bring electric buses to US in 2028 electrive.com",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
       "title": "VinFast to launch eBus platform in U.S.",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVRUb1U1alRiMTJQMVJZMlNBWndzYjRYV0VWZi1IclN6X2tDZk5GbWNQX3V5MWZVX093Q1RSeG04TXdWalBHdDJFOGRmcWxlZEVLV3ZSbGlBT21lV21lSHYtc2dlWmhQdTZ3bEZaR05Pby1CVHRoUmxScFhPdHpqUWV2elE4Y0dKOHcxTW1ZZFFMSWV5c2RvRHhJRUJhRmRoUUxKUFlldWRtMDJwN0Vrdm0xQUZvQ3VoVE94bFRnMGNOUzZrN0dNdQ?oc=5",
       "source": "Mass Transit",
@@ -501,19 +501,6 @@
       "pub_date": "2026-10-06 07:00:00 UTC",
       "pub_timestamp": 1791270000,
       "description": "VINFAST INTRODUCES ELECTRIC BUS LINEUP IN THE U.S, DOUBLING DOWN ON SUSTAINABLE MOBILITY GROWTH Nasdaq",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "VinFast Electric Buses Head to U.S. via NexMove",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FNUFYRUdIeHZMSnZRb1c2ckJoc002NWVVU3l1NUM1bGJBSk8tRVk2bUlIdXlCM1VPZGVSNHlRbHpXRXpRQTBlVnVMNmpJRUFUMzYycmRjUm4zaWNEc1RCVWE1bnFhQk5V?oc=5",
-      "source": "The EV Report",
-      "pub_date": "2026-10-06 07:00:00 UTC",
-      "pub_timestamp": 1791270000,
-      "description": "VinFast Electric Buses Head to U.S. via NexMove The EV Report",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -545,6 +532,19 @@
       "category_vi": "Quản Lý Đội Xe & ITS",
       "category_id": "its",
       "badge_color": "amber"
+    },
+    {
+      "title": "VinFast Electric Buses Head to U.S. via NexMove",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FNUFYRUdIeHZMSnZRb1c2ckJoc002NWVVU3l1NUM1bGJBSk8tRVk2bUlIdXlCM1VPZGVSNHlRbHpXRXpRQTBlVnVMNmpJRUFUMzYycmRjUm4zaWNEc1RCVWE1bnFhQk5V?oc=5",
+      "source": "The EV Report",
+      "pub_date": "2026-10-06 07:00:00 UTC",
+      "pub_timestamp": 1791270000,
+      "description": "VinFast Electric Buses Head to U.S. via NexMove The EV Report",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
     },
     {
       "title": "Toyota Launches New Fuel Cell Route Bus \"Sora\"",
@@ -753,19 +753,6 @@
       "category_vi": "Xe Tự Hành & AI",
       "category_id": "autonomous",
       "badge_color": "purple"
-    },
-    {
-      "title": "New Flyer debuts first 60-foot hydrogen fuel-cell bus",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEx2Q2NyNS1MRjVfTkpyX2FvNWFnYU1nZ1BZWDZ0amZGZTNISWJZRzdyUUppZ2FQdU1PVW0ydnZwQzJvekVJNmdSRXpJN2hXVzZnN1o0UXc3MHg2TjY0WVlLQUx1cUtJMmQ3QjdoT2E0QUlrbXFMa2IzTVJ1Y2NJeFZoaS1aSlZaUl8tekdaUm9KUE0?oc=5",
-      "source": "Metro Magazine",
-      "pub_date": "2026-05-18 03:56:05 UTC",
-      "pub_timestamp": 1779076565,
-      "description": "New Flyer debuts first 60-foot hydrogen fuel-cell bus Metro Magazine",
-      "image": "",
-      "category": "Hydrogen & Fuel Cell",
-      "category_vi": "Hydro & Pin Nhiên Liệu",
-      "category_id": "hydrogen",
-      "badge_color": "sky"
     },
     {
       "title": "Avatar",
@@ -1052,6 +1039,19 @@
       "category_vi": "Xe Buýt Điện",
       "category_id": "electric",
       "badge_color": "emerald"
+    },
+    {
+      "title": "Automated & autonomous vehicles",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KRW4wZ1BvVkxYdy1OVmJWZzZMRWJVWTRnQmJQd3VGcW9pRjI5Nk5rVlVQZjlhV085UEFGc0x6cXktRW5fWEtzMi1ZR0ZMeTV2bVBKYjNNWFZrTjM0dWtwcmlsWDR4elgzTG5FWHhCTVhtQQ?oc=5",
+      "source": "Ministry of Transport",
+      "pub_date": "2025-12-10 01:23:34 UTC",
+      "pub_timestamp": 1765329814,
+      "description": "Automated & autonomous vehicles Ministry of Transport",
+      "image": "",
+      "category": "Autonomous & AI",
+      "category_vi": "Xe Tự Hành & AI",
+      "category_id": "autonomous",
+      "badge_color": "purple"
     }
   ]
 }
