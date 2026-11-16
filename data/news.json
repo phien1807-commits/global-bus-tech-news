@@ -1,38 +1,38 @@
 {
   "metadata": {
-    "last_updated": "2026-11-15 00:45:50 UTC",
+    "last_updated": "2026-11-16 05:05:03 UTC",
     "total_articles": 80,
     "sources_count": 6,
     "stats": {
       "total": 80,
-      "electric": 37,
+      "electric": 36,
       "autonomous": 16,
-      "hydrogen": 13,
-      "its": 8,
-      "market": 6
+      "hydrogen": 12,
+      "its": 11,
+      "market": 5
     }
   },
   "articles": [
     {
-      "title": "EaseMyTrip plans Rs 200 crore investment in EV bus manufacturing, targets 2,000 buses by FY28",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMk5ESGNYeXI2azcyZUpKOGNZelVDV29ZZmFZelBGWFVBMFRuMVllbVJmUVNaamZNcDNvYXJoUDIySzUyLUlvenpHSzJDQVJZdjU0U0gxRUd5Q25ldU5GUWNhWHE1SFNnOUlrMVVRLTJVZDJOcGZyd1dSbEN2d3NJUF80ZDl3aTFGcDhnMDFmYkZaTmtzVmp0LWxpV3VINU03bFQ3Nk5MdVlDYk1fUExMckduZmt0X0Y0Q1NodE9ZZ01YQ1dwZlFvRG5adGp6enZwSmZKWEtHaG1iZ3lnT1R6UnAzeHhvekVkekczRzVQc3lTTUhGTWczang3VEpDbEHSAYQCQVVfeXFMTktIUkdRNU1hNnVnUE8xbjRrUTdNQ1JENERBM2dHZWZPSV9ON0wzMi02TEVSWE8walNEaDVvVFdscDhKdkpEbThwODdIdUdhNUR5dU5PMm1uMHdMa3NXM042eHlTVWVsaTlBa3dyYVFubmgzRXhPWVBtTEM1d0ZLWmcwbG1TOXhfWmxrTzhoT3FzQlJuMlphVW94LVZXLVJjTHVkcTVoX1dtWUN1cm1qRlFNaDhkMUp0ZEpSdF9CNnJwY1FQaHY5YzVvQ1lqTXNLNXpsS3ZTQ1B1N1ZrZVJwaHFqMXllOVdybVFFbmhYckJVRllQYkthb1lKbS12UFowSndyYnc?oc=5",
-      "source": "The Economic Times",
-      "pub_date": "2026-11-14 19:29:40 UTC",
-      "pub_timestamp": 1794684580,
-      "description": "EaseMyTrip plans Rs 200 crore investment in EV bus manufacturing, targets 2,000 buses by FY28 The Economic Times",
+      "title": "JBM's ECOLIFE e12 Electric Bus Debuts at Singapore Urban Mobility Week",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWdnY2NwaS1MeHJNTlFLUjFRemMxSlpCNVppN0pTcHJmNlZobi1BUG1SSXc0X05ZcGFWUzNPOUNRLTNSUnZ3WUV3R05qSVNLS3hzZGZXLWQ4WktLVUtxWGg3dDZxallFQ0lFSXh4SHk5eEhqQWtDbTZTUlljMXREMG9QcWxZSWhOU3JCcHhCRXUzUzlwWXR0VnpOVUVUOTloZzQ2TXB3?oc=5",
+      "source": "DANAMIC",
+      "pub_date": "2026-11-15 03:33:17 UTC",
+      "pub_timestamp": 1794713597,
+      "description": "JBM's ECOLIFE e12 Electric Bus Debuts at Singapore Urban Mobility Week DANAMIC",
       "image": "",
-      "category": "Market & Tenders",
-      "category_vi": "Thị Trường & Dự Án",
-      "category_id": "market",
-      "badge_color": "blue"
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
     },
     {
-      "title": "Abu Dhabi leads transition towards sustainable transport",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjYxMVZVZ3J6WHBZYXdYU1JSTWtRa3c3VmtnLXVwWnRidjNJeDJsc2NVWDZ4V2xXZVBDNzlHSWY2NW16d3otOEQ2SU5paVVxREVMZlRjY0c0M0FtQjZ4RU9SdjJNWFptV0dGb3RNeWZ6TWNQLVA5dFc4RDVldDdZUHVxTHpBaEh5RS00bTRLVUxnYVZib1BqSFdSTVJtTUNSbGpwRW9B0gG4AUFVX3lxTE1RQ085WEV5a0hDWUhfLVRXajFnUVd2Mk5MSDNRd2d4dmtOSUl6RDBiVkRDVWJtZDhEYUVSNzBFMEgtanpjOVk0ZXlNdndqQXI3QXkzVjB2ZU84TVNxdGhIaHFZSFF1Mm9qajRnODJGSTZ5Ui1JM1NqZnVVdy1rM2VKVlA2RnpjRDRPSDVzS1pQMG03VXhFeU1ESEpPYy1Pc2wxY0xHQkx1NGh2Sm9VTUtLcHlGMUpSbnA?oc=5",
-      "source": "Gulf News",
-      "pub_date": "2026-11-14 09:25:06 UTC",
-      "pub_timestamp": 1794648306,
-      "description": "Abu Dhabi leads transition towards sustainable transport Gulf News",
+      "title": "Australian bus maker to open manufacturing facility in Sri Lanka",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTlzQ3VIQWY1QjdHYktRUExHc25yMEhrek8yRl83WjJVTUgyZXAtZHRQTzJsVUI2UG1lRHQ1OWJ6MmlSeWVwdjRPMVdmOG1MaXZBRV9jd2VYb2VXT01rRGo1bHRMaTF3R1FqdWVfWkU2YTRJbk1qNHJDRHcxLW1pV2c0TmpfVEI1WnMtTzg0WTRwWF9kYWE3aDFGRXF5cTVTUnlYMUY4dkQxSmJIcXBDWnNJWFk3ZG1SUjNIb0pQVmNKX00?oc=5",
+      "source": "The Sunday Times, Sri Lanka",
+      "pub_date": "2026-11-15 01:56:04 UTC",
+      "pub_timestamp": 1794707764,
+      "description": "Australian bus maker to open manufacturing facility in Sri Lanka The Sunday Times, Sri Lanka",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -56,22 +56,9 @@
       "title": "Golden Arrow maps out next decade with more electric buses and passenger technology",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2VqMTlFcEtGS2g5ZEVOMlJFU1N4WVVEU2daaURoYm5waVc1NWdubmlRdlMtZ19uQVdiLVU0X1ByT1hUZWE5R2pEbm9MSm5jQlAtd2FQZzVCeXVaWTIyOEd5ZHBrbFd6Vk1QTWREckI3clZSQ3dIcEJTeDBKUmRrOVl4dXlPNjdjVkxlLUNpV0NOZEVoajZqLV8zVXVLajh2aUVrMWJEQ0tlblp5RTAwWkVVYThiLTgwdDhr?oc=5",
       "source": "Cape Times",
-      "pub_date": "2026-11-13 16:11:53 UTC",
-      "pub_timestamp": 1794586313,
+      "pub_date": "2026-11-13 12:03:02 UTC",
+      "pub_timestamp": 1794571382,
       "description": "Golden Arrow maps out next decade with more electric buses and passenger technology Cape Times",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "As it seeks exemption for ZE rules, Sacramento RT wins $57.7M for electric buses",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pelAyTVc2aXdtR2VBdTZxOEJZdUlVdHZlbFdWaDdGbGNBZ2w2a1VVbkpoLW42T1kwSnNDa25wZkdqSHlab09QMTNIZUF4elB1b2NYSjhxU2FHMkJYM1FYRGdLVURiMXRvM3VoR2xhOHBENjM1V09qSWpB0gF6QVVfeXFMT0hPcVU4Rk1xRnNVd1V1aG42NkE3bjVSQU5CeUQ4cW5tYWtnNnZURzlsVDZUVnlaamtqWlBUUnM5MUw2UHBzV2R6VHlBZW9velRHUndVZkthZ1ktVmFjQTNUWHFpT0VMd1hyN2VoNTUtU1BHbXRKMnZlN0E?oc=5",
-      "source": "Sacramento Bee",
-      "pub_date": "2026-11-13 15:00:00 UTC",
-      "pub_timestamp": 1794582000,
-      "description": "As it seeks exemption for ZE rules, Sacramento RT wins $57.7M for electric buses Sacramento Bee",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -108,8 +95,8 @@
       "title": "Golden Arrow plans up to 60 new buses a year, including electric vehicles",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTGMwYlU2UkZRQ3dhVFYwWjFGbzVaeHlEYVRpSU9XQ1NPQW5yTWVPTnpyTXVENTJtM0lZeGNXbWhya2hsbi1WNUhiV3ctLVhSWVQ5S0x5dkdzUzFrSTcwVmI1YllkZUJYdmVrQUhfOHNJMXBPd1lJZmUtQXlIblJ4R3BvZVNqR2puV1ZNVG9kVVlmbGVPSlBrelQzNE9YWldGYWlmaWlnbDBwRXhNNUhUMFpXVmFsMmJL?oc=5",
       "source": "IOL",
-      "pub_date": "2026-11-13 05:00:00 UTC",
-      "pub_timestamp": 1794546000,
+      "pub_date": "2026-11-13 05:08:17 UTC",
+      "pub_timestamp": 1794546497,
       "description": "Golden Arrow plans up to 60 new buses a year, including electric vehicles IOL",
       "image": "",
       "category": "Electric & E-Bus",
@@ -183,32 +170,6 @@
       "badge_color": "amber"
     },
     {
-      "title": "Oando, Lagos unveil new electric bus fleet",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVpMX2dEX2lib2NRSVRDRkI3WUd5WEY0d2NMVHdtWXRRT3lJLXA0VEtaem9VU01hREN4WUh1M1BuZ2FrZkExS2tvUjhRUTlrSHpRaGxCLVpSMUx4ME0zYm9VM1JfLVNZUU1USGNsOVpUVWhQb0xwYWJoV2x6bmVoQUlUTmJfczBfbWU2ZlAtV0N0VGd1ZVE?oc=5",
-      "source": "Galaxy Television",
-      "pub_date": "2026-11-11 11:32:47 UTC",
-      "pub_timestamp": 1794396767,
-      "description": "Oando, Lagos unveil new electric bus fleet Galaxy Television",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "Next-Generation Mercedes-Benz eCitaro Debuts With New Electric Platform Ahead of 2028 Launch",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVdoeGRuUGZtZ3Fqb0ZLbTRRMTVvQ2otZFRxYXE2R0ZVOWJ4X3dESVhjUWRoMUs2bFY5elhfZ01KTDJGSGd3eW5EN0g4ZE5CTzVYTnhma2tqbTk4MUIzckRjUGJJalp5WWhSaWRoNWNPLVNUbFRJWkJmT3BTX2hMSW0zcDNtLUNJbGtzNU1vU3JrTWZpSjJkLTh0ZFhzaGNYR0NCMXlld0hwRW1NNjJGRUZfbWxMQWRCUVQyWHplckwzeU85S2hCVkwtUVg?oc=5",
-      "source": "Electric Cars Report",
-      "pub_date": "2026-11-11 09:17:06 UTC",
-      "pub_timestamp": 1794388626,
-      "description": "Next-Generation Mercedes-Benz eCitaro Debuts With New Electric Platform Ahead of 2028 Launch Electric Cars Report",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
       "title": "Transperth exceeds 200 electric buses in service as Bayswater depot in Perth (Australia) opens with 132-bus initial capacity",
       "link": "https://www.sustainable-bus.com/infrastructure/perth-bayswater-electric-bus-depot-132-vehicles/",
       "source": "Sustainable Bus",
@@ -220,19 +181,6 @@
       "category_vi": "Xe Buýt Điện",
       "category_id": "electric",
       "badge_color": "emerald"
-    },
-    {
-      "title": "Ballard’s new FCmove-SC fuel cell engine to premier in new Solaris Urbino 12 buses",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTkpBWHJ3cUg0aU9zaW1fRG9WMExtSXBzVEdQU05COXgzdXJ3NUU4YnBBeFBuZHdzVWlFMXQ2Yl94T1NsbEVxRUpra2ZoQ3BUUXJpbGc0X0twM0dDcGNyWXNWVkNmUzJ4d25CSTJNc1ZfZ1pIVGtXclBPSEhwMFBRdzJnazRmbzE4Z1h5alBpNEZvUXdNUUloSkdwWmpMdzZ2dzUwckVJUGJNOXQ5Sm1YaWRMZ195SXhsTlNZY0ZTcG12VTRGTUdxR2tCRERRdHpVbzdHRUVMX2RVNXVwYW0zLWhJUnZIOXBpQ0ZmTVc2dTgwVFU?oc=5",
-      "source": "Mass Transit",
-      "pub_date": "2026-11-10 15:15:53 UTC",
-      "pub_timestamp": 1794323753,
-      "description": "Ballard’s new FCmove-SC fuel cell engine to premier in new Solaris Urbino 12 buses Mass Transit",
-      "image": "",
-      "category": "Hydrogen & Fuel Cell",
-      "category_vi": "Hydro & Pin Nhiên Liệu",
-      "category_id": "hydrogen",
-      "badge_color": "sky"
     },
     {
       "title": "Driventic VEDS electric drive selected for repowering 28 Optare Metrodecker EV buses in London",
@@ -259,19 +207,6 @@
       "category_vi": "Quản Lý Đội Xe & ITS",
       "category_id": "its",
       "badge_color": "amber"
-    },
-    {
-      "title": "Hanoi to put 31 more electric buses into operation",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0JqZldteHFIeWdtNE85VGJMUFVpSXc3ZGgwQ2pqaVRhTlNCVksxMEdaeWRERHF6djMtUGs0VF9zbk9IUG4wLWhkNGlhVUNmYzMxMTZmVzg5TENoNGVKNHJ5aDhVUk05VXBub3BNd0FkalhZNlVQX1k3QnV0aHVIb0RqX0l5RTlack1yUTNjVXBHVUZqOWc?oc=5",
-      "source": "Vietnam+ (VietnamPlus)",
-      "pub_date": "2026-11-07 15:51:00 UTC",
-      "pub_timestamp": 1794066660,
-      "description": "Hanoi to put 31 more electric buses into operation Vietnam+ (VietnamPlus)",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
     },
     {
       "title": "Ballard FCmove®-SC fuel cell engine makes series-production debut in next-generation Solaris Urbino 12 hydrogen bus",
@@ -311,6 +246,19 @@
       "category_vi": "Xe Tự Hành & AI",
       "category_id": "autonomous",
       "badge_color": "purple"
+    },
+    {
+      "title": "VinFast Auto (VFS) Wins EU Approval For Its EB 12 Electric Bus",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkV0T1I1MkhWeXJWRDRoaEVkUGJ4NWdiWFMzVUs1YkgtY3diVnJ6Q09QVW5vWmp4cUVtLXZBYkFhRmVqYUpLaE1jMzlKVm9MVmZKTW1jN2JwLVNYMkR6UU1KOEJTNWhfY09WWDFrUEllc29pWDNoQjM3VVRCa28yRnI1dG5vNUFtcWpPbjc0WXppTzA?oc=5",
+      "source": "Yahoo Finance",
+      "pub_date": "2026-10-24 07:00:00 UTC",
+      "pub_timestamp": 1792825200,
+      "description": "VinFast Auto (VFS) Wins EU Approval For Its EB 12 Electric Bus Yahoo Finance",
+      "image": "",
+      "category": "Fleet & ITS Tech",
+      "category_vi": "Quản Lý Đội Xe & ITS",
+      "category_id": "its",
+      "badge_color": "amber"
     },
     {
       "title": "VinFast to bring electric buses to the US through NexMove service deal",
@@ -449,19 +397,6 @@
       "pub_date": "2026-10-05 07:00:00 UTC",
       "pub_timestamp": 1791183600,
       "description": "VinFast to bring electric buses to the U.S. with NexMove, deliveries planned from 2028 Sustainable Bus",
-      "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
-    },
-    {
-      "title": "VinFast Europe Strategy Leans on Buses, Dealers",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4NWxTOGljSDBEWUxZeTFMRTFBUi14SU9BcGJHM0tXeHZUTzBiOTZGRlJBdW5ZZlFoMV9aS09JemNyQzhMLXBEVVNURDhFcE9fWlhCMHgyOGZQNzhaOE1JaVIxS3pTMXQybGxCR2RNdGwzSVpLUVc1SnZ3?oc=5",
-      "source": "The EV Report",
-      "pub_date": "2026-10-02 07:00:00 UTC",
-      "pub_timestamp": 1790924400,
-      "description": "VinFast Europe Strategy Leans on Buses, Dealers The EV Report",
       "image": "",
       "category": "Electric & E-Bus",
       "category_vi": "Xe Buýt Điện",
@@ -677,6 +612,19 @@
       "badge_color": "emerald"
     },
     {
+      "title": "Inside VinFast’s Hai Phong bus plant: European-spec EB8 and EB12 under development",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjhpbUEtZnlKQ1Z2a2FGajM0QnJmaW1qc29FQmlHTlQ1d2F2ODlrckVzR1REbTdzaGJfMUVqa3dYYWNxR2g2cFUybTNraGFyOFhjNHRMcE5BVXk5WGpzaFBjckpiYXR6cVJ4Ui16a0V2T1dnc09mVjRReXhoMDdKMFRrekU?oc=5",
+      "source": "Sustainable Bus",
+      "pub_date": "2026-05-11 07:00:00 UTC",
+      "pub_timestamp": 1778482800,
+      "description": "Inside VinFast’s Hai Phong bus plant: European-spec EB8 and EB12 under development Sustainable Bus",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
       "title": "Wrightbus Selects Ballard’s FCmove®‑SC Engine to Power Its Next‑Generation Hydrogen Bus Platform",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeVA4TWVmMkVHNWVHTXRtdEpZVGw0ckk1Z2ZVS3BSYVUxX1pKRjZZd0daWVd3YjhtcG1FNDczZmZOU0Z1bmdkeU9NTlJqU1gxTGoyQXFtNlI2RXo5Qy0tMDJ6X0ttWXJaOUQwX24zQXk4S2VqNGRqVGV3TE5lc2RONGRGaG9xMzlwbS1kUUZwSFRKZS1VU2Roa253X2RGUzZFVmdlSVFjV2V2TVNsZ2JueG5jZFd6YkxpU2xrNHBjc0t3N2NxSVlGSFZXUEVRQQ?oc=5",
       "source": "Ballard Power",
@@ -690,17 +638,17 @@
       "badge_color": "sky"
     },
     {
-      "title": "Inside VinFast’s Hanoi ecosystem, where VinBus operates 600 e-buses (out of 2,000 running in Vietnam)",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjbHBoMDU5SU1LY1kxbmVySk4tWVBiUmtQb0FpaV9XbWxITExfYk9uQnl1OXEyYmpLeGJGclFJcGhRWmZPZFZreTRNM3lXb0FVb2EtWG14TDd2MTJWUThaZDhLNElxQTJzYnZDTTBSNnB0cnhsS0twUw?oc=5",
+      "title": "Vietnam, Transerco deploys total 119 electric buses across Hanoi as 56 new units enter service",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbmFFc29seTMzR3lqUElXckowX1V4MjkyekxuRFBxaUJ4MEdfZUthSWZIV3FHdVgzRVI1WDJaMHNVWWlmTXlHcWY2WHZWMFRvbGktUGxLOGRFbnhOLUk5UTlGbWM0V013NUJlRFdyMDBMTUx0TXRSa05vTE1uZTRoZ2dVbjgtYnFRMjVOQlJiVEhVcUlJRmFyOUxKRGpIRGpuNGdsa1piMWNqUkhicGFQeF9TbF9LZm5JejQzVkFxS1d2UnVZWUROeTRZOA?oc=5",
       "source": "Sustainable Bus",
-      "pub_date": "2026-05-06 07:00:00 UTC",
-      "pub_timestamp": 1778050800,
-      "description": "Inside VinFast’s Hanoi ecosystem, where VinBus operates 600 e-buses (out of 2,000 running in Vietnam) Sustainable Bus",
+      "pub_date": "2026-04-27 07:00:00 UTC",
+      "pub_timestamp": 1777273200,
+      "description": "Vietnam, Transerco deploys total 119 electric buses across Hanoi as 56 new units enter service Sustainable Bus",
       "image": "",
-      "category": "Electric & E-Bus",
-      "category_vi": "Xe Buýt Điện",
-      "category_id": "electric",
-      "badge_color": "emerald"
+      "category": "Fleet & ITS Tech",
+      "category_vi": "Quản Lý Đội Xe & ITS",
+      "category_id": "its",
+      "badge_color": "amber"
     },
     {
       "title": "Phoenix is selling its hydrogen bus after being immobile for years",
@@ -714,6 +662,19 @@
       "category_vi": "Hydro & Pin Nhiên Liệu",
       "category_id": "hydrogen",
       "badge_color": "sky"
+    },
+    {
+      "title": "First of 6 driverless public buses arrives in S’pore ahead of Marina Bay, one-north trials",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTHVBLTg3dm1tUG5iUTRFWkRSVldRTkxCeWRsRnhrWVlBLUszQjFBWjRaYVR0Ny1qbGdSQXl3azF2TjJlN2UwZ0MwdmJ6bERibHhJN0NhNlVyYm5zYUMxUTg5MHZwSnlWWnNtX3lfb2w4OWREa2hCTVhuYmFrTGszazVLYlp0TzFkZ2lkM2oyaWZ4MmxfZm1RbnNOWXRrSkFxUlg0RjZ4MHNkV2ZVUlJiT3hLTjZ3U2NLc1BseFlwcWVncFhsLXlMZGdVMnZDY0hJWHZhMmxOQ1BCaHpwbEpIYjN3?oc=5",
+      "source": "The Straits Times",
+      "pub_date": "2026-03-25 07:00:00 UTC",
+      "pub_timestamp": 1774422000,
+      "description": "First of 6 driverless public buses arrives in S’pore ahead of Marina Bay, one-north trials The Straits Times",
+      "image": "",
+      "category": "Autonomous & AI",
+      "category_vi": "Xe Tự Hành & AI",
+      "category_id": "autonomous",
+      "badge_color": "purple"
     },
     {
       "title": "Vietnam: VinBus deploys 169 electric buses in Ho Chi Minh City",
@@ -885,19 +846,6 @@
       "badge_color": "purple"
     },
     {
-      "title": "Seoul moves to broaden use of autonomous buses to fill late-night transit gaps",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcFpNV3pfaENVc0twSTltNTJJUkFrTEk5UVRvR3FHWFhHNGg1bmlxVUdWVWs5VENQNWo0emxackhCUEpKdU5RSExHQUJZR19vWmZMdXNxUV9RdHVLRWpSOW5HaEp6SFYzMGsyOG81ajBtM1dZTy1ydi1kTWl3TjQxeW9hdFR4d0hvTVRvUGV4YUJSZTBhX0c0YjFENEZDYkROMkVmdjVRSUZueFFEVTFhQVc3UGlDWjAxYmxJZzdBUWdXbWRZTmVrenhkXzNLdXpl0gHWAUFVX3lxTE9fb3pwU200N0lyN3FFQ05oU1lKV3ZoOFNLdFlSekczZ3VnYUZKR1NPUHZMOU15eXZqQjdCYUt5SkJTaGM1cDAzM1ZURTJ2MHhTZFFmby15Y2VjTE9vRmptOUhKd1VkMUhNN3lPMGNoTlQ2YWU4TmM1cEFzd2llcmpBRjlKZ2N3RmNoMlZuM25aNVJOdWpoV0lRRDZacDVib3dSYmNYbWhpc1lPNENiUmZtanoybjdoN2VWajBQVVBGT3pvaFRRMzY2SU5fQVV5bVlqekVUelE?oc=5",
-      "source": "The Korea Times",
-      "pub_date": "2026-01-06 08:00:00 UTC",
-      "pub_timestamp": 1767686400,
-      "description": "Seoul moves to broaden use of autonomous buses to fill late-night transit gaps The Korea Times",
-      "image": "",
-      "category": "Autonomous & AI",
-      "category_vi": "Xe Tự Hành & AI",
-      "category_id": "autonomous",
-      "badge_color": "purple"
-    },
-    {
       "title": "First public electric bus route in Côn Đảo Special Zone starts December 25",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjVBbER4MFQ3Q1RuSlpSNGNoNjBSajQ2V1FORzJyNkhwakRXSnA0dFFVNkk1dkxEUWRZZlZHZXdtZE1jOVAtYVR4ZHhJTHQ5cW84dlg2Vm5QVmY5RjNMYUpGOUVoemlOc3V3SzlfMG5Xd0tjTmpZYWFnWWkzM1Qyb0JBSTJIS2g3TUs1OXAtcE5ucFFYZWNST1RycGViUm5uZHViSTlUU2dLdUpiWk5fektONEVrWVViSkE?oc=5",
       "source": "vietnamnews.vn",
@@ -1052,6 +1000,58 @@
       "category_vi": "Hydro & Pin Nhiên Liệu",
       "category_id": "hydrogen",
       "badge_color": "sky"
+    },
+    {
+      "title": "Vinfast launches two new electric bus models in Europe",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS0hwdmFMRkFlZTRfNnBtNHRHajl4RDZ5Vm8xVU5lNzZnUUdPbUhYV3ZGbG90YjIxanZWZ0N3dGpBZ1I1eW5ub3YtZkZvT1BFRndqeDlvSGJpY2JKeE1oazdBV3E0bzNfLVZoeTJWWjloQlI5ZHB2a2xEYzdwV0kxZ0stTENOUjZxLWYtemgtbzY?oc=5",
+      "source": "Charged EVs",
+      "pub_date": "2025-10-09 07:00:00 UTC",
+      "pub_timestamp": 1759993200,
+      "description": "Vinfast launches two new electric bus models in Europe Charged EVs",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "VinFast presents EB 12 and EB 8 electric city buses",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPanJ5RGpCSG91aFkwa0ZOSDZLMFNuVzE4aXlTVEtPNWN6bGRWQUtZbVJDandGem1mRWtOblBVZ3h5eVp1a1FnaVZuSlNiTzVfa0lUaTNhMFdGQ3N5V0xFNFI1N1pvMTVhREl6dHVoZDY1aS0zSXgwb0RmNXo0WVVCUU43SGdOQVBuTGY4VkZEeW1EWXc?oc=5",
+      "source": "electrive.com",
+      "pub_date": "2025-10-07 07:00:00 UTC",
+      "pub_timestamp": 1759820400,
+      "description": "VinFast presents EB 12 and EB 8 electric city buses electrive.com",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
+    },
+    {
+      "title": "VinFast launches EB 8 and EB 12 e-buses at Busworld as Europe becomes its first international market for buses",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zNmF3S1RUcXNQV0lmbXlPb2ZPeTZFLTVpaUxnWHd6UHdUOGF4V1RCeVJZNUd1azNiT2llenVUNkh0MlhIZk9EejI3bFB0V3lXTkRYN2RId1M3QWRiM1I2QXh6ampLTWVpdzhWTkg5bjdzMFhL?oc=5",
+      "source": "Sustainable Bus",
+      "pub_date": "2025-10-04 07:00:00 UTC",
+      "pub_timestamp": 1759561200,
+      "description": "VinFast launches EB 8 and EB 12 e-buses at Busworld as Europe becomes its first international market for buses Sustainable Bus",
+      "image": "",
+      "category": "Fleet & ITS Tech",
+      "category_vi": "Quản Lý Đội Xe & ITS",
+      "category_id": "its",
+      "badge_color": "amber"
+    },
+    {
+      "title": "Busworld: VinFast Launches Two New Electric Bus Models in Europe",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYk40SExTWnNaWGp1bk0xQ3JPT3k2RVlHaGNuODZSRkQ1eElLX2R0M1FjZnNUSXhzeTdaVjZtRHNGYWNQYUhwUGsyTG1KQWJJU1ZuemJiNFM3TS1VbFZBejQ2TTlyQkJyZFdtd0ViMDdmSXU1cHQ0UnlFbndCdUcwN2JncHhlZXE5V0liZkpR?oc=5",
+      "source": "Bus-News",
+      "pub_date": "2025-10-04 07:00:00 UTC",
+      "pub_timestamp": 1759561200,
+      "description": "Busworld: VinFast Launches Two New Electric Bus Models in Europe Bus-News",
+      "image": "",
+      "category": "Electric & E-Bus",
+      "category_vi": "Xe Buýt Điện",
+      "category_id": "electric",
+      "badge_color": "emerald"
     }
   ]
 }
